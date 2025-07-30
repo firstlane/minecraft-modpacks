@@ -1,0 +1,13 @@
+name = "Unique Dungeons"
+filename = "uniquedungeons-0.70.4-47.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "94647109449dd386c90d7dd32198df1fe2ed4a40"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6606166
+project-id = 835792

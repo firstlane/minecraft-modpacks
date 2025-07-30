@@ -1,0 +1,13 @@
+name = "Traveller's Boots"
+filename = "TravellersBootsReloaded-1.20.1-2.1.2-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4nDndTIl/versions/d1BRhDVy/TravellersBootsReloaded-1.20.1-2.1.2-neoforge.jar"
+hash-format = "sha512"
+hash = "403b0645a6f60845d521fcf10934b1e24e7e67562cefa1ac0acda95a1396e84de4e351a132db733c1e7f222895eefcba1f6e34f1811d8cb1e7a9f53591deb73c"
+
+[update]
+[update.modrinth]
+mod-id = "4nDndTIl"
+version = "d1BRhDVy"

@@ -1,0 +1,13 @@
+name = "Interaction Boxes"
+filename = "interaction_boxes-0.693.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2e81e145b653fbab0cd6320052ceca066ae69362"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5451189
+project-id = 1026595

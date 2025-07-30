@@ -1,0 +1,13 @@
+name = "Terminal Ballistics Simulation for Block-Sized Projectiles"
+filename = "tbsfbsp-0.74.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4bcb9f0ddfe0ffb10dea971b4ae5eaedd419509e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6529899
+project-id = 1035650

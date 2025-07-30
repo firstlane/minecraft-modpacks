@@ -1,0 +1,13 @@
+name = "Piglet Structures"
+filename = "Piglet_Structures_1.20.1(ver.1.455).jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3Y7JDXGr/versions/3eefxjzv/Piglet_Structures_1.20.1%28ver.1.455%29.jar"
+hash-format = "sha512"
+hash = "df130e911e82ca336547667c1ace6c16fb3f0736238647f07988d0b5372904f26ff15bbe6faa0577196fad78616075a9752a1b2bbb4a805438be9eee987d3f0e"
+
+[update]
+[update.modrinth]
+mod-id = "3Y7JDXGr"
+version = "3eefxjzv"
