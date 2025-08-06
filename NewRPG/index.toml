@@ -21,8 +21,18 @@ hash = "7e48e349828f7f9f1cf9a58f9bb80be56c4f109398ed5a2ed3e23b93fa0cd550"
 metafile = true
 
 [[files]]
+file = "mods/ambientsounds.pw.toml"
+hash = "0a01a0be766ccb1492c1d0a5dd3b315ef455862ee68c578bd01cbcf71d7058eb"
+metafile = true
+
+[[files]]
 file = "mods/citadel.pw.toml"
 hash = "0c8838dba7d2090968ca9ec633260d42ca16f1df186a780bd5965994541d9f74"
+metafile = true
+
+[[files]]
+file = "mods/creativecore.pw.toml"
+hash = "9582c04926dd9cea7f68f6f1b4e068bd2ec3f6fcb2734497d885364c6b74b1e1"
 metafile = true
 
 [[files]]
