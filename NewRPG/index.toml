@@ -466,6 +466,11 @@ hash = "121deaac816da80ec3d7d1238a0770cbb43e2b075b6c8fc8ac296c3551ade25e"
 metafile = true
 
 [[files]]
+file = "mods/parcool.pw.toml"
+hash = "2438da2d375b218f4a5c02345e77e96ed759a792092d023982add05e632951a0"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "55c6d0b8ee25fd6a37a964805de3d2eab3f20d73a88ba77a63b4a51fd985d9dd"
 metafile = true
