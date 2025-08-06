@@ -181,6 +181,11 @@ hash = "e4a65e6e67523dab2e57e6070f8089bacda68bf39bc68c9afd264c115421066d"
 metafile = true
 
 [[files]]
+file = "mods/easy-villagers.pw.toml"
+hash = "93e20469e914c742003a29920ed2404dc543d15d5298abdabc08f024f06a883b"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "fa6e35c376181fa82ad33b9cb4c20382a0effd7eb09a06107dcc884b98f49ff2"
 metafile = true
