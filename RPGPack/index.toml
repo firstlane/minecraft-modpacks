@@ -2214,3 +2214,8 @@ metafile = true
 file = "resourcepacks/detailed-animations.pw.toml"
 hash = "11ca7ee74121279438d839d89d1507f05db78cac8d1a39faf7311283d36e2536"
 metafile = true
+
+[[files]]
+file = "resourcepacks/door-tweaks.pw.toml"
+hash = "bb1a9dace8267ee4bdc91360f3828de37fe03f4a3d9f2bce03ed418c8afa4852"
+metafile = true
