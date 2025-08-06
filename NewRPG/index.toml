@@ -371,6 +371,11 @@ hash = "39d576bdf14b906a1e6b11154473f5fb9444919aed049f3841779c9afce65359"
 metafile = true
 
 [[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "7ea985404ee4cc9082472c6869ec146309f526e395361b39f2f4c1a43506c41d"
+metafile = true
+
+[[files]]
 file = "mods/library-ferret.pw.toml"
 hash = "9e8dd3e6c43542e5edc72259a9be1d3815b87cc3baca9ea071b39c3f06dbb1fc"
 metafile = true
@@ -443,6 +448,11 @@ metafile = true
 [[files]]
 file = "mods/obscure-api.pw.toml"
 hash = "6ae126a7cff8e32d017433e0d443608c6c9fe1303ff5d25c0b771b6a49814193"
+metafile = true
+
+[[files]]
+file = "mods/observable.pw.toml"
+hash = "6a94342cf499f76ae6d809e718ba533376055adfafaf45d0eaccb25ea18e2a9d"
 metafile = true
 
 [[files]]
