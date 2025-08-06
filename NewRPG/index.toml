@@ -356,6 +356,11 @@ hash = "d8c354de7ab3aef949b8f8598ae57f07f1a38711d99588f27b93c1af93a14fba"
 metafile = true
 
 [[files]]
+file = "mods/jamlib.pw.toml"
+hash = "97c5e1b61bfd1a812718baa7657ccf20691697ef8a1be47972a230c209c4077c"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "5f7c3cf35124bf96e880cc8562fc44ac15990a89b07db299aed9a88ce3752cb1"
 metafile = true
@@ -513,6 +518,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "5c07edd0c8fe82e85efd6c027476ba54cf98291526803b74614c3436292e4ab6"
+metafile = true
+
+[[files]]
+file = "mods/rightclickharvest.pw.toml"
+hash = "3fcca3c9f608671ced97be9c1d50772b43f556a489f546de8d58f197b71078a7"
 metafile = true
 
 [[files]]
