@@ -2206,6 +2206,11 @@ hash = "b3a1e8b5219a31b8145109c432457bcd13cb201dd913d6d980657f80169a55ff"
 metafile = true
 
 [[files]]
+file = "resourcepacks/3d-ladders.pw.toml"
+hash = "ffe209fc20f9dc1e0c986a83ac17a2422d2b62a15bd6836a46247a756c45dacb"
+metafile = true
+
+[[files]]
 file = "resourcepacks/better-lanterns.pw.toml"
 hash = "120a936d5345b58a613ce793b0ce4bd6527aec7125eed4b6177f45d6e8602fb5"
 metafile = true
