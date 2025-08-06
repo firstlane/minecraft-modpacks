@@ -176,6 +176,11 @@ hash = "4a24ff40173c5380b4cc3f6c34f1aaa06ee922a6c9fb060d1dd0aea89aef0e6c"
 metafile = true
 
 [[files]]
+file = "mods/demis-sky-arena.pw.toml"
+hash = "83ce314136cc0a19aeb4e3dccb31ae9417d504d192a84f4923bf8a36e11ab233"
+metafile = true
+
+[[files]]
 file = "mods/dimensionaldoors.pw.toml"
 hash = "b336a8ec620a9d52041e63b61c17e5857e8d6cb46cdbf4989066dec38ead21d3"
 metafile = true
