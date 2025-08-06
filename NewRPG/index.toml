@@ -661,6 +661,11 @@ hash = "f3eade7a6f574ae82f533184a65885f3e2e70e2dff73afa5f137046ca3165ae9"
 metafile = true
 
 [[files]]
+file = "mods/when-dungeons-arise.pw.toml"
+hash = "de4b3b898a16ed4d615cfce18ac872e6a963605d52072d290b495cdff160a34c"
+metafile = true
+
+[[files]]
 file = "mods/yungs-api.pw.toml"
 hash = "152c6732da180e958fb29f492bae2e468d4dfd423ce4d3d0d31ef31c2eec6c61"
 metafile = true
