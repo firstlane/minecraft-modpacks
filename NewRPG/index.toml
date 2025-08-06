@@ -599,3 +599,8 @@ metafile = true
 file = "mods/swordinthestone.pw.toml"
 hash = "dc411223e06824f3d41a9375518d5ab0703e18683a420898474da15c6d375cdf"
 metafile = true
+
+[[files]]
+file = "mods/tectonic.pw.toml"
+hash = "23c3dddf24d8d65b2ad798247389647b47e10439dca2c46b1c958a8d2b0a1841"
+metafile = true
