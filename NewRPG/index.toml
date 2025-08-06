@@ -16,6 +16,11 @@ hash = "0bdcf1c5057873c78db71bee196ccf5ec846f6cf82f639b094668b3ba92e151f"
 metafile = true
 
 [[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "7b846273c5cbc4d0eb1f3d0eb4802b0e81e54dea84cf25666015ca50931fe307"
+metafile = true
+
+[[files]]
 file = "mods/forgeendertech.pw.toml"
 hash = "cd48fe3423dc77813bb1298fb0e5d5c2509bbb5532dfbf0dc5b5db142a113122"
 metafile = true
