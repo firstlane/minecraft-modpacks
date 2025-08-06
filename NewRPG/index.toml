@@ -141,6 +141,11 @@ hash = "aab86d52c9896cfcf7c0635c3c897c3dd190de84e3be9eeb726a22c5a61602ed"
 metafile = true
 
 [[files]]
+file = "mods/create.pw.toml"
+hash = "97f7c75ac9bf6ee2a4f15c0f1e3e4cd161f3d2e33f32ebf623811ac90b3c2a83"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "9582c04926dd9cea7f68f6f1b4e068bd2ec3f6fcb2734497d885364c6b74b1e1"
 metafile = true
@@ -321,6 +326,11 @@ hash = "d3c46e2cf7b6cb19617bd0fab5bbeee7826c0a6371a48d1249b2fc3370a2da37"
 metafile = true
 
 [[files]]
+file = "mods/idas.pw.toml"
+hash = "675609a9fb0ed19788e460191f2fba6279e56e63d702c3d506e6e1a1c0c9ffb0"
+metafile = true
+
+[[files]]
 file = "mods/immersive-portals-neoforge.pw.toml"
 hash = "8c56189a235a058e9dfd8a1f6ffa449b1cfcdb957f77f07750ee203057025b9a"
 metafile = true
@@ -328,6 +338,11 @@ metafile = true
 [[files]]
 file = "mods/incendium.pw.toml"
 hash = "0f83be0761e0014686517c20f2850242152dd7a26e87088d869028bc40a8a125"
+metafile = true
+
+[[files]]
+file = "mods/integrated-api.pw.toml"
+hash = "6703d5686b7249c586a3a710a909dfd0eba3e2d0c76bc152efb2c43494e5b2e1"
 metafile = true
 
 [[files]]
@@ -371,6 +386,11 @@ hash = "74991cede8019cf93d1243369d840913375ab3a7d448d764c7a15f87f5bc4e52"
 metafile = true
 
 [[files]]
+file = "mods/quark.pw.toml"
+hash = "8df897c0f7831e919aa528c3c1e5239f39439c123d99761230ab2357132bad98"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-config.pw.toml"
 hash = "b85e8417e797be3fdae046c487eeda8f54cdc88f3f20e462e0e229f8dd734214"
 metafile = true
@@ -378,4 +398,9 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "5c07edd0c8fe82e85efd6c027476ba54cf98291526803b74614c3436292e4ab6"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "906b1a08e332ab12174bc72e32b1537b7d3f0ae4a01ee7c7d50ec54dd2f057b6"
 metafile = true
