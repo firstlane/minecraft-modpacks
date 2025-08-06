@@ -186,6 +186,11 @@ hash = "93e20469e914c742003a29920ed2404dc543d15d5298abdabc08f024f06a883b"
 metafile = true
 
 [[files]]
+file = "mods/elevatormod.pw.toml"
+hash = "f5d37adacc560364c03ff2baeff8f08ba0005ce5899459ed2459f3fb252f240c"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "fa6e35c376181fa82ad33b9cb4c20382a0effd7eb09a06107dcc884b98f49ff2"
 metafile = true
