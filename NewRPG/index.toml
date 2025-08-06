@@ -416,6 +416,11 @@ hash = "fc09447db9efb9f9ec998ce84cf11edfd089a2515a300e45fd06e607aabc051a"
 metafile = true
 
 [[files]]
+file = "mods/mutant-monsters.pw.toml"
+hash = "ea253f9d25449632f94895890ce35fe68adf5b4cb46642368184f24319b0c4c8"
+metafile = true
+
+[[files]]
 file = "mods/obscure-api.pw.toml"
 hash = "6ae126a7cff8e32d017433e0d443608c6c9fe1303ff5d25c0b771b6a49814193"
 metafile = true
