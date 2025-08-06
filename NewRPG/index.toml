@@ -321,6 +321,11 @@ hash = "bfe1b9ef08ea1e5e3a49a449105d91718a74cf10628964c86897d7ae5fac20be"
 metafile = true
 
 [[files]]
+file = "mods/glitchcore.pw.toml"
+hash = "71f185e62d546881244d4b5a213ebc3d2d6df14b0218c0e5dd6426fcb22cb55f"
+metafile = true
+
+[[files]]
 file = "mods/grappling-hook-mod.pw.toml"
 hash = "0ae8ea8f2680deb033b40b89c90bf3921bd37224ec6f8c3ec2f326553619f74f"
 metafile = true
@@ -533,6 +538,11 @@ metafile = true
 [[files]]
 file = "mods/savage-and-ravage.pw.toml"
 hash = "2baa9ef40b8cea6397998245f451d8d5c65c97633562bae8d3db7c442d3b02c7"
+metafile = true
+
+[[files]]
+file = "mods/serene-seasons.pw.toml"
+hash = "7f38bb5c863c04b013a2c6ed75d799525ba3cc5a548279adde6e9329ff308dd4"
 metafile = true
 
 [[files]]
