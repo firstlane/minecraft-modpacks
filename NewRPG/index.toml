@@ -171,6 +171,11 @@ hash = "f149a746a5ef2421f836f421a0eb4f67c821db3c52a9100265769cec705ae021"
 metafile = true
 
 [[files]]
+file = "mods/easy-piglins.pw.toml"
+hash = "2a6cb0414eeb7a59c1655398190d3e24cb704c6a073fa217fa3e8faee3b518cf"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "fa6e35c376181fa82ad33b9cb4c20382a0effd7eb09a06107dcc884b98f49ff2"
 metafile = true
