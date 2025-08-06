@@ -356,6 +356,11 @@ hash = "88dd1cfe1b9663a81cc4a04b8590864a8517eedcc5458b376c3d1445f56bf8a3"
 metafile = true
 
 [[files]]
+file = "mods/jump-over-fences.pw.toml"
+hash = "39d576bdf14b906a1e6b11154473f5fb9444919aed049f3841779c9afce65359"
+metafile = true
+
+[[files]]
 file = "mods/library-ferret.pw.toml"
 hash = "9e8dd3e6c43542e5edc72259a9be1d3815b87cc3baca9ea071b39c3f06dbb1fc"
 metafile = true
