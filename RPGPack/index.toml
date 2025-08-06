@@ -1501,11 +1501,6 @@ hash = "94910057d9bf56c60c393a3cfe745f78c971005d74d9992462be7527c13315c2"
 metafile = true
 
 [[files]]
-file = "mods/better-animations-collection.pw.toml"
-hash = "e5bb4345658a5f110823d1ea93d740d23b617c7888ffe635bc352d34c42311ca"
-metafile = true
-
-[[files]]
 file = "mods/better-village.pw.toml"
 hash = "0484b975d66fd7f59e0533191ff46fbb1a44df12263591ce3dadbb3b87f3d527"
 metafile = true
