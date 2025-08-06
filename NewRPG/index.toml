@@ -76,6 +76,11 @@ hash = "ad277ad1cc85c6dce61a2ab784dfcb54b5c522a824f06cb94339bf32bdb5d52a"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "94910057d9bf56c60c393a3cfe745f78c971005d74d9992462be7527c13315c2"
+metafile = true
+
+[[files]]
 file = "mods/better-animations-collection.pw.toml"
 hash = "e5bb4345658a5f110823d1ea93d740d23b617c7888ffe635bc352d34c42311ca"
 metafile = true
@@ -648,6 +653,11 @@ metafile = true
 [[files]]
 file = "mods/valhelsia-structures.pw.toml"
 hash = "f264291c59b4c33378a5aa36e67169ebc405b7a19089a712e9ce99071ea6d011"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "f3eade7a6f574ae82f533184a65885f3e2e70e2dff73afa5f137046ca3165ae9"
 metafile = true
 
 [[files]]
