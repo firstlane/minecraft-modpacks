@@ -76,6 +76,11 @@ hash = "0484b975d66fd7f59e0533191ff46fbb1a44df12263591ce3dadbb3b87f3d527"
 metafile = true
 
 [[files]]
+file = "mods/blossom-blade.pw.toml"
+hash = "3d5c7a4eff33a51d6a52ed8d86b98877dcddc8ba348677df91ec80530f3f9af6"
+metafile = true
+
+[[files]]
 file = "mods/citadel.pw.toml"
 hash = "0c8838dba7d2090968ca9ec633260d42ca16f1df186a780bd5965994541d9f74"
 metafile = true
