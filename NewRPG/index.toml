@@ -411,6 +411,11 @@ hash = "f71945a7eb0a75ed920225f624978790c2ec75c08c24661e06d5b486722d5b1a"
 metafile = true
 
 [[files]]
+file = "mods/mowzies-mobs.pw.toml"
+hash = "fc09447db9efb9f9ec998ce84cf11edfd089a2515a300e45fd06e607aabc051a"
+metafile = true
+
+[[files]]
 file = "mods/obscure-api.pw.toml"
 hash = "6ae126a7cff8e32d017433e0d443608c6c9fe1303ff5d25c0b771b6a49814193"
 metafile = true
