@@ -1073,10 +1073,6 @@ file = "config/idas.toml"
 hash = "e183689f333c024b2afe504dcff455faa214bd05b62d14ca21216fd916c5099b"
 
 [[files]]
-file = "config/immersive_portals.json"
-hash = "1b349fa24ead559abb0a140d8e9fa788b80627791c83eee9be901751762b6b20"
-
-[[files]]
 file = "config/irons_spellbooks-client.toml"
 hash = "09e833b496652d4dd9b64e3915083ed485327bca2f06831c9b86c347f5dd1be2"
 
@@ -1782,11 +1778,6 @@ metafile = true
 [[files]]
 file = "mods/idas.pw.toml"
 hash = "675609a9fb0ed19788e460191f2fba6279e56e63d702c3d506e6e1a1c0c9ffb0"
-metafile = true
-
-[[files]]
-file = "mods/immersive-portals-neoforge.pw.toml"
-hash = "8c56189a235a058e9dfd8a1f6ffa449b1cfcdb957f77f07750ee203057025b9a"
 metafile = true
 
 [[files]]
