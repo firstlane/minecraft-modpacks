@@ -26,6 +26,11 @@ hash = "0a01a0be766ccb1492c1d0a5dd3b315ef455862ee68c578bd01cbcf71d7058eb"
 metafile = true
 
 [[files]]
+file = "mods/amendments.pw.toml"
+hash = "40d7523ca483b635666171ee5648a6bcc926f83f4d5d0c1d6906c62cc12f6ec4"
+metafile = true
+
+[[files]]
 file = "mods/citadel.pw.toml"
 hash = "0c8838dba7d2090968ca9ec633260d42ca16f1df186a780bd5965994541d9f74"
 metafile = true
@@ -48,4 +53,9 @@ metafile = true
 [[files]]
 file = "mods/irons-spells-n-spellbooks.pw.toml"
 hash = "d8c354de7ab3aef949b8f8598ae57f07f1a38711d99588f27b93c1af93a14fba"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "f71945a7eb0a75ed920225f624978790c2ec75c08c24661e06d5b486722d5b1a"
 metafile = true
