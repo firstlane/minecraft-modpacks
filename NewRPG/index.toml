@@ -351,6 +351,11 @@ hash = "d8c354de7ab3aef949b8f8598ae57f07f1a38711d99588f27b93c1af93a14fba"
 metafile = true
 
 [[files]]
+file = "mods/jet-and-elias-armors.pw.toml"
+hash = "88dd1cfe1b9663a81cc4a04b8590864a8517eedcc5458b376c3d1445f56bf8a3"
+metafile = true
+
+[[files]]
 file = "mods/library-ferret.pw.toml"
 hash = "9e8dd3e6c43542e5edc72259a9be1d3815b87cc3baca9ea071b39c3f06dbb1fc"
 metafile = true
