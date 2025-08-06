@@ -31,6 +31,16 @@ hash = "40d7523ca483b635666171ee5648a6bcc926f83f4d5d0c1d6906c62cc12f6ec4"
 metafile = true
 
 [[files]]
+file = "mods/animal_feeding_trough.pw.toml"
+hash = "1ef6a334d659a6c52db931faa93f9519aadd7b41d6277eff9a367e1846ec0099"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
+metafile = true
+
+[[files]]
 file = "mods/citadel.pw.toml"
 hash = "0c8838dba7d2090968ca9ec633260d42ca16f1df186a780bd5965994541d9f74"
 metafile = true
