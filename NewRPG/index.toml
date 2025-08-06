@@ -624,3 +624,13 @@ metafile = true
 file = "mods/towns-and-towers.pw.toml"
 hash = "72c0e1d4d8eb05e6c82c8959885ee5f08b8c7ede63b438e22a7422246679cc46"
 metafile = true
+
+[[files]]
+file = "mods/travelers-titles.pw.toml"
+hash = "16e2c84951ba32efac8703ccb7b36631b70cb514d402fa8fb4f89031f2a63a58"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "152c6732da180e958fb29f492bae2e468d4dfd423ce4d3d0d31ef31c2eec6c61"
+metafile = true
