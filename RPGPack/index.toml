@@ -2219,3 +2219,8 @@ metafile = true
 file = "resourcepacks/door-tweaks.pw.toml"
 hash = "bb1a9dace8267ee4bdc91360f3828de37fe03f4a3d9f2bce03ed418c8afa4852"
 metafile = true
+
+[[files]]
+file = "resourcepacks/enchant-icons-countxd.pw.toml"
+hash = "d9e7e86ddb96102cedc1173006459c1cb4338698087bf16258abb23dd7889219"
+metafile = true
