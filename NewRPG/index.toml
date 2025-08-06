@@ -386,6 +386,11 @@ hash = "c01e4f873d0c5deb69686ad4583b8c052408256f3641a4d6c277b865fc341634"
 metafile = true
 
 [[files]]
+file = "mods/medieval-buildings.pw.toml"
+hash = "e49f763064f80e899302b28aea07fa05902e99f3ebbe5eb3d42b737b0c0fc9c4"
+metafile = true
+
+[[files]]
 file = "mods/monolib.pw.toml"
 hash = "bad5d109262b0a07d364973c7da2a4d2ac2c6279223c5c726d410035ef5a3665"
 metafile = true
