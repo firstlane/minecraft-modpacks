@@ -436,6 +436,11 @@ hash = "c18dd089c44103b56f8edcbd41a071e41a1fcd46094b2c93df5cc5f07853f18b"
 metafile = true
 
 [[files]]
+file = "mods/nyfs-quivers.pw.toml"
+hash = "c84b3c2aa48bae4caa28f021b0bafd3949b3daba20b8a64b631a889fdc730d66"
+metafile = true
+
+[[files]]
 file = "mods/obscure-api.pw.toml"
 hash = "6ae126a7cff8e32d017433e0d443608c6c9fe1303ff5d25c0b771b6a49814193"
 metafile = true

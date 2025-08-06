@@ -1,0 +1,13 @@
+name = "Nyf's Quivers"
+filename = "nyfsquiver-1.20.1-forge-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hReJ61of/versions/zWNnGFCz/nyfsquiver-1.20.1-forge-1.0.1.jar"
+hash-format = "sha512"
+hash = "4b0d488ea20d4d13638eeadd8b6a6c166d9dc433944636d417bd963a3a15a522bf636ffc42dc897795957b5b9f834e059521b10700ba2df43b6b2700b805b55a"
+
+[update]
+[update.modrinth]
+mod-id = "hReJ61of"
+version = "zWNnGFCz"
