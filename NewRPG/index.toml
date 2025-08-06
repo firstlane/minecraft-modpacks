@@ -586,6 +586,11 @@ hash = "814445baf530024286284956041e3a3fcbde966e640aaf6b0f323c032360c9e2"
 metafile = true
 
 [[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "4bc420f77cac5e4ededc3c1f67d937757220aa81a1c6657515d29a74af01703e"
+metafile = true
+
+[[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "906b1a08e332ab12174bc72e32b1537b7d3f0ae4a01ee7c7d50ec54dd2f057b6"
 metafile = true
