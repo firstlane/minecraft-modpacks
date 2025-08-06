@@ -81,6 +81,11 @@ hash = "3d5c7a4eff33a51d6a52ed8d86b98877dcddc8ba348677df91ec80530f3f9af6"
 metafile = true
 
 [[files]]
+file = "mods/born-in-chaos.pw.toml"
+hash = "cd46ef6620f61eff41c8bdfb5734c9e381c0780e78ce3049888c5579277925e4"
+metafile = true
+
+[[files]]
 file = "mods/citadel.pw.toml"
 hash = "0c8838dba7d2090968ca9ec633260d42ca16f1df186a780bd5965994541d9f74"
 metafile = true
@@ -98,6 +103,11 @@ metafile = true
 [[files]]
 file = "mods/forgeendertech.pw.toml"
 hash = "cd48fe3423dc77813bb1298fb0e5d5c2509bbb5532dfbf0dc5b5db142a113122"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "3e1eb9740fada46d463ae8f5e1f2cf24d5a85532356f7d5173a7c23a0dd8fb53"
 metafile = true
 
 [[files]]
