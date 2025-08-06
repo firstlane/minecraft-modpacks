@@ -376,6 +376,11 @@ hash = "00f3f21762720f03dd0f1d60449d2a5d3a0104989223f4efa81401d94b8f3358"
 metafile = true
 
 [[files]]
+file = "mods/lost-libraries.pw.toml"
+hash = "ad5db9f6b4e7f792233d5b8af438922c404506da07d9f56d146476276e5b84c7"
+metafile = true
+
+[[files]]
 file = "mods/monolib.pw.toml"
 hash = "bad5d109262b0a07d364973c7da2a4d2ac2c6279223c5c726d410035ef5a3665"
 metafile = true

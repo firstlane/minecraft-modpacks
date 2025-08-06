@@ -1,0 +1,13 @@
+name = "Lost Libraries"
+filename = "lost-libraries-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/o4gsLB4v/versions/pMxxIuCR/lost-libraries-1.1.1.jar"
+hash-format = "sha512"
+hash = "b4a3be93f18e82c085d4207ffca522137d4f61ff27659d6a5a1159a7a3c2ed951cdeaf58aa298a50ab0c66375bf6fecae09b9ba2def326c98da0d617f58122e0"
+
+[update]
+[update.modrinth]
+mod-id = "o4gsLB4v"
+version = "pMxxIuCR"
