@@ -576,6 +576,16 @@ hash = "bd231c766e25e2f3a5fbfa7e7b8ade2536fed16c3a5574dc30b212dc51a75044"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "44307037183b08d9bffc68198280912245f8b93cf7504678eccd2ac11ca6fc0b"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "814445baf530024286284956041e3a3fcbde966e640aaf6b0f323c032360c9e2"
+metafile = true
+
+[[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "906b1a08e332ab12174bc72e32b1537b7d3f0ae4a01ee7c7d50ec54dd2f057b6"
 metafile = true
