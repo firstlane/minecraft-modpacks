@@ -161,6 +161,11 @@ hash = "0c91bda0e9a61b15ac8a729678c70af9b9630c8ea6cadf591750b129caa10000"
 metafile = true
 
 [[files]]
+file = "mods/easy-magic.pw.toml"
+hash = "f04c6bc722bee9b7f66eb9a1fd6abc016b60c77fc1c9ae05f8dd4a24225a2709"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "fa6e35c376181fa82ad33b9cb4c20382a0effd7eb09a06107dcc884b98f49ff2"
 metafile = true
