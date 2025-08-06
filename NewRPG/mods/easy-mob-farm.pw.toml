@@ -1,0 +1,13 @@
+name = "Easy Mob Farm"
+filename = "easy_mob_farm-forge-1.20.1-10.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/crxsDbEo/versions/VYmXyDoh/easy_mob_farm-forge-1.20.1-10.0.0.jar"
+hash-format = "sha512"
+hash = "1ee876e399f17f89c754b60540e1200e76db1d501b86eb9a3b0c687294a09cbc2c4cf094fb62fa863f287a0f7f4837ee27215ec28269869e66b49f8c34fccbb9"
+
+[update]
+[update.modrinth]
+mod-id = "crxsDbEo"
+version = "VYmXyDoh"
