@@ -1,2 +1,11 @@
 hash-format = "sha256"
-files = []
+
+[[files]]
+file = "mods/advanced-finders.pw.toml"
+hash = "139343fbca2c83554190e7d91550504f1787ba1d9d08da9a4263f346f7fc5c46"
+metafile = true
+
+[[files]]
+file = "mods/forgeendertech.pw.toml"
+hash = "cd48fe3423dc77813bb1298fb0e5d5c2509bbb5532dfbf0dc5b5db142a113122"
+metafile = true
