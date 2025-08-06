@@ -1,0 +1,13 @@
+name = "RPGPack"
+author = "firstlane"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "5912db6b16f4028e3515b83d95ccfc740e05718e180a5845d7bc78225ffe6ac0"
+
+[versions]
+forge = "47.4.0"
+minecraft = "1.20.1"

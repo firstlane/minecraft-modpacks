@@ -1,0 +1,13 @@
+name = "Mobs of Mythology"
+filename = "mobs_of_mythology-forge-1.20.1-2.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/avrKhvsK/versions/bNtCHWbU/mobs_of_mythology-forge-1.20.1-2.1.2.jar"
+hash-format = "sha512"
+hash = "98db9dc2393081497ecbe5def8ae3f8ad54b7a74f1d931ca4338f3e199c1d5789284ae1707015bd13f1d848a908a910523c9bb487c6df1607bde19cf8143eaba"
+
+[update]
+[update.modrinth]
+mod-id = "avrKhvsK"
+version = "bNtCHWbU"

@@ -1,0 +1,13 @@
+name = "Universal Clock HUD (Fork)"
+filename = "universalclockhud-1.20.1-1.7.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/2E2bpUHF/versions/YdmmNfGW/universalclockhud-1.20.1-1.7.0.jar"
+hash-format = "sha512"
+hash = "232db7b3e356eafc5c18ee77e5e25f963b50e9e330e6f0acb2066d2f3d99e53e80b4bc3ce4155a193d1e9505c9d548de531b67750e3fa204d435b6faaf1a2b6e"
+
+[update]
+[update.modrinth]
+mod-id = "2E2bpUHF"
+version = "YdmmNfGW"

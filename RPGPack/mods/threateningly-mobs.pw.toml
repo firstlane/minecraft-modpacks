@@ -1,0 +1,13 @@
+name = "Threateningly mobs"
+filename = "threateningly_mobs-1.0.9.6-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qEr8xutG/versions/DgXG2lOX/threateningly_mobs-1.0.9.6-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "cb6af7a617255d01f9b83bc154dda406372e9d2d94f2e4a48a9d5968826070bc8bf968774bc88b67cb3be5fa1d351745b1af6021b02683bf3c8823ea0b3e453c"
+
+[update]
+[update.modrinth]
+mod-id = "qEr8xutG"
+version = "DgXG2lOX"

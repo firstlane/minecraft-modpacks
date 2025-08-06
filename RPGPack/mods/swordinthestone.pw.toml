@@ -1,0 +1,13 @@
+name = "Sword in the Stone"
+filename = "swordinthestone-2.0-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3HWZ1ync/versions/bWzQ5Ksa/swordinthestone-2.0-1.20.1.jar"
+hash-format = "sha512"
+hash = "1b0e8d1f3bbc95eac38a0d8f1856628ba3957a864b0efcf61ac1df5c99c4c254032a7f1c03111ae515269b04632440d0675ace4761fd74cf030eb5bbf01ad868"
+
+[update]
+[update.modrinth]
+mod-id = "3HWZ1ync"
+version = "bWzQ5Ksa"
