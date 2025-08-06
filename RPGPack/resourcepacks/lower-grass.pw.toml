@@ -1,0 +1,13 @@
+name = "Lower Grass"
+filename = "LowerGrass_1.20.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/EYDx6PXJ/versions/nKO6BQa8/LowerGrass_1.20.zip"
+hash-format = "sha512"
+hash = "cac1884f959adcf11eb71e899b70d753fe03e5390a6de259b1be20b701297df4a059220ee64651eac305f29244017a353aae4f48f0f538601aeb866746834fd7"
+
+[update]
+[update.modrinth]
+mod-id = "EYDx6PXJ"
+version = "nKO6BQa8"

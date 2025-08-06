@@ -2234,3 +2234,8 @@ metafile = true
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "b96abadb2cdb56d53145609e6a8ee9fd70171878bb5414412dddee1fca902a7b"
 metafile = true
+
+[[files]]
+file = "resourcepacks/lower-grass.pw.toml"
+hash = "8ba11b1fe1f5d85c8b07ac7b06a6185b03b37e13f2310a4cd1bf960c934efe9e"
+metafile = true
