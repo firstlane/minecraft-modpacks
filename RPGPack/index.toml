@@ -2241,8 +2241,8 @@ hash = "d9e7e86ddb96102cedc1173006459c1cb4338698087bf16258abb23dd7889219"
 metafile = true
 
 [[files]]
-file = "resourcepacks/fresh-animations.pw.toml"
-hash = "b96abadb2cdb56d53145609e6a8ee9fd70171878bb5414412dddee1fca902a7b"
+file = "resourcepacks/freshepic-compat.pw.toml"
+hash = "b8e3f844524a780dc0e903f7aa5053ae0cef21449361ec3c5dd8bbc0dd896cf7"
 metafile = true
 
 [[files]]
