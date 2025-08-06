@@ -2211,6 +2211,11 @@ hash = "120a936d5345b58a613ce793b0ce4bd6527aec7125eed4b6177f45d6e8602fb5"
 metafile = true
 
 [[files]]
+file = "resourcepacks/better-lights.pw.toml"
+hash = "c6699e429ed376f95c8a26e1a3db78ffb644b359bababc55a3dd2c038726be42"
+metafile = true
+
+[[files]]
 file = "resourcepacks/blinking-ender-eyes.pw.toml"
 hash = "1e09ab2eb9648ff659a6399e283e4bf33c62e467acbbac0d7ebdd7dee8e3f160"
 metafile = true
