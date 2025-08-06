@@ -566,6 +566,11 @@ hash = "e7b4f5d39d49d95fc3b11d7e39b29dc7206ef38274200f745912aae332d496e7"
 metafile = true
 
 [[files]]
+file = "mods/small-ships.pw.toml"
+hash = "a291a8d50f30843e49d92db1cde7734327e809b52d24183eecff8c165eed82a6"
+metafile = true
+
+[[files]]
 file = "mods/smartbrainlib.pw.toml"
 hash = "bd231c766e25e2f3a5fbfa7e7b8ade2536fed16c3a5574dc30b212dc51a75044"
 metafile = true
