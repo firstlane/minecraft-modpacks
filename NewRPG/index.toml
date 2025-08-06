@@ -51,6 +51,11 @@ hash = "793693a85f3c87d4e899ee0c58deabc53690bf5a70f17343f28fd5063ce8a1e1"
 metafile = true
 
 [[files]]
+file = "mods/aquamirae.pw.toml"
+hash = "221e85ab67a10bfc0de6c02ab835d9830e1d3acabc4a0c91b6629e168948b438"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
 metafile = true
@@ -83,6 +88,11 @@ metafile = true
 [[files]]
 file = "mods/moonlight.pw.toml"
 hash = "f71945a7eb0a75ed920225f624978790c2ec75c08c24661e06d5b486722d5b1a"
+metafile = true
+
+[[files]]
+file = "mods/obscure-api.pw.toml"
+hash = "6ae126a7cff8e32d017433e0d443608c6c9fe1303ff5d25c0b771b6a49814193"
 metafile = true
 
 [[files]]
