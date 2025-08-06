@@ -466,6 +466,11 @@ hash = "121deaac816da80ec3d7d1238a0770cbb43e2b075b6c8fc8ac296c3551ade25e"
 metafile = true
 
 [[files]]
+file = "mods/paragliders.pw.toml"
+hash = "e0d9db82e60f58d505d8fdb2cc2e0ed73510385582c2ca10e7934fd9fb81517e"
+metafile = true
+
+[[files]]
 file = "mods/parcool.pw.toml"
 hash = "2438da2d375b218f4a5c02345e77e96ed759a792092d023982add05e632951a0"
 metafile = true
