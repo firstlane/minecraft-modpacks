@@ -66,6 +66,11 @@ hash = "563f7048ec5b8650af6c90f45ef23c702a72b113bfd95dd801502b28e574f5ee"
 metafile = true
 
 [[files]]
+file = "mods/azurelib.pw.toml"
+hash = "ac417e7e82f5e6fa46de32fdefc6d01b786c39bf26cb4d7e0869ae9a6992f03e"
+metafile = true
+
+[[files]]
 file = "mods/bad-mobs.pw.toml"
 hash = "ad277ad1cc85c6dce61a2ab784dfcb54b5c522a824f06cb94339bf32bdb5d52a"
 metafile = true
@@ -391,6 +396,11 @@ hash = "e49f763064f80e899302b28aea07fa05902e99f3ebbe5eb3d42b737b0c0fc9c4"
 metafile = true
 
 [[files]]
+file = "mods/mobs-of-mythology.pw.toml"
+hash = "d7740f59539653e194395e02333a0e9e9a142501d2561c30c64421f028572f79"
+metafile = true
+
+[[files]]
 file = "mods/monolib.pw.toml"
 hash = "bad5d109262b0a07d364973c7da2a4d2ac2c6279223c5c726d410035ef5a3665"
 metafile = true
@@ -433,6 +443,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "5c07edd0c8fe82e85efd6c027476ba54cf98291526803b74614c3436292e4ab6"
+metafile = true
+
+[[files]]
+file = "mods/smartbrainlib.pw.toml"
+hash = "bd231c766e25e2f3a5fbfa7e7b8ade2536fed16c3a5574dc30b212dc51a75044"
 metafile = true
 
 [[files]]
