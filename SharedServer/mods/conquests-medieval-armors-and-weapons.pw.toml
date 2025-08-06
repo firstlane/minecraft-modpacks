@@ -1,0 +1,13 @@
+name = "Conquest's Medieval Armors and Weapons"
+filename = "MedievalArmsCR-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "33487da2c185d104ff5db8baa8686dc2686a32b6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6130834
+project-id = 638558
