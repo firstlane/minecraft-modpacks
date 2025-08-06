@@ -461,6 +461,11 @@ hash = "f83b253ca6a8e6f2f847952704da0e1fb00e65cbb10b7c9cb15d1a1780618da0"
 metafile = true
 
 [[files]]
+file = "mods/orcz.pw.toml"
+hash = "121deaac816da80ec3d7d1238a0770cbb43e2b075b6c8fc8ac296c3551ade25e"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "55c6d0b8ee25fd6a37a964805de3d2eab3f20d73a88ba77a63b4a51fd985d9dd"
 metafile = true
