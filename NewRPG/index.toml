@@ -256,6 +256,11 @@ hash = "3ea91c588049667c27ab7298c2e34b8f5a5419e4bb0757e92ecc0effc7bc1463"
 metafile = true
 
 [[files]]
+file = "mods/epic-knights-shields-armor-and-weapons.pw.toml"
+hash = "6c4b0e77fb08a27e938b1734033fb0f1b8efb8d4ea6a6067d9e650c43f73b662"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "fa6e35c376181fa82ad33b9cb4c20382a0effd7eb09a06107dcc884b98f49ff2"
 metafile = true
