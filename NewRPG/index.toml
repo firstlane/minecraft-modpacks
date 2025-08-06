@@ -91,6 +91,11 @@ hash = "a748351943c09e8cb6e90e56b7419c9420d76072c822a2c8c7b0f7f6f636648c"
 metafile = true
 
 [[files]]
+file = "mods/bygone-nether.pw.toml"
+hash = "d706f608a7387e3f3d47d71995f543cd32a52894cdbd5f65d0a0295050ca61a5"
+metafile = true
+
+[[files]]
 file = "mods/cerbons-api.pw.toml"
 hash = "b04f3690005952fb2f0d93b742a00d4b25547cbb4e2975aaca89fb0af58a9539"
 metafile = true
