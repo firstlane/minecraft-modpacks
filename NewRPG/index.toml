@@ -406,8 +406,18 @@ hash = "7ea985404ee4cc9082472c6869ec146309f526e395361b39f2f4c1a43506c41d"
 metafile = true
 
 [[files]]
+file = "mods/l_enders-cataclysm.pw.toml"
+hash = "26067b771a2c9b8b784d269dfc1ead15bc60834985843d5b39bc212aad5fa759"
+metafile = true
+
+[[files]]
 file = "mods/library-ferret.pw.toml"
 hash = "9e8dd3e6c43542e5edc72259a9be1d3815b87cc3baca9ea071b39c3f06dbb1fc"
+metafile = true
+
+[[files]]
+file = "mods/lionfish-api.pw.toml"
+hash = "3e055c411c197b2103e338dc9fdcd37272df81aaf4246f801694f97feaf7d232"
 metafile = true
 
 [[files]]
