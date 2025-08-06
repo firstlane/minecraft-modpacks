@@ -636,6 +636,11 @@ hash = "6297ad66c0498e66162b619c451b2cca0017110c5de08e0d2f93d421510fc0a2"
 metafile = true
 
 [[files]]
+file = "mods/valarian-conquest.pw.toml"
+hash = "c2e30b685d8fb588133a859c86fccbdff8782d72916c957031b03896376ef0d5"
+metafile = true
+
+[[files]]
 file = "mods/yungs-api.pw.toml"
 hash = "152c6732da180e958fb29f492bae2e468d4dfd423ce4d3d0d31ef31c2eec6c61"
 metafile = true

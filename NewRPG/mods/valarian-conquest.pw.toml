@@ -1,0 +1,13 @@
+name = "Valarian Conquest"
+filename = "valarian_conquest-3.2.1-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FTLgMXgq/versions/27d5eR0m/valarian_conquest-3.2.1-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "daeb35b86a60e41fcc896ecbd967aa5af925076af3ec8bf33443ce93b36e624ef824303e3f9dff9a1b3122b68ba561729b1c5100613a4c215595d68dbf72397c"
+
+[update]
+[update.modrinth]
+mod-id = "FTLgMXgq"
+version = "27d5eR0m"
