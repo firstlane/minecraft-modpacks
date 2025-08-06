@@ -481,6 +481,11 @@ hash = "362ead0883974a7de4dd711a75ccfe71b2ceadf172211934e8cd6084977c0f49"
 metafile = true
 
 [[files]]
+file = "mods/nebulus-trees-and-portals.pw.toml"
+hash = "47925dca4a70f8c5e47170a541b36b1bfad61319a7f7be20a9009b1f076133cd"
+metafile = true
+
+[[files]]
 file = "mods/noisium.pw.toml"
 hash = "c18dd089c44103b56f8edcbd41a071e41a1fcd46094b2c93df5cc5f07853f18b"
 metafile = true
