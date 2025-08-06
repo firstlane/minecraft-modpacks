@@ -176,6 +176,11 @@ hash = "2a6cb0414eeb7a59c1655398190d3e24cb704c6a073fa217fa3e8faee3b518cf"
 metafile = true
 
 [[files]]
+file = "mods/easy-shulker-boxes.pw.toml"
+hash = "e4a65e6e67523dab2e57e6070f8089bacda68bf39bc68c9afd264c115421066d"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "fa6e35c376181fa82ad33b9cb4c20382a0effd7eb09a06107dcc884b98f49ff2"
 metafile = true
