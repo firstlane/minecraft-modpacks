@@ -1,0 +1,13 @@
+name = "Conquest's Medieval Armors and Weapons"
+filename = "MedievalArmsCR-forge-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fYcVkuT5/versions/SCznMQDd/MedievalArmsCR-forge-2.0.0.jar"
+hash-format = "sha512"
+hash = "be3e13d0ac71d5202e8b037fb1edf0e68218a5f788e12dc975e11276492e1422d76825b2df03052dfea776d7fda4b35a71face59ea92e3dcfbf94cdf88b8ff56"
+
+[update]
+[update.modrinth]
+mod-id = "fYcVkuT5"
+version = "SCznMQDd"

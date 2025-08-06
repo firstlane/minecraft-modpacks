@@ -61,6 +61,11 @@ hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
 metafile = true
 
 [[files]]
+file = "mods/azurelib-armor.pw.toml"
+hash = "563f7048ec5b8650af6c90f45ef23c702a72b113bfd95dd801502b28e574f5ee"
+metafile = true
+
+[[files]]
 file = "mods/bad-mobs.pw.toml"
 hash = "ad277ad1cc85c6dce61a2ab784dfcb54b5c522a824f06cb94339bf32bdb5d52a"
 metafile = true
@@ -118,6 +123,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "e3dd03e7fec88831974857e2cdded54dd5c5bdcaa3f6d6248c2800e82db4dd41"
+metafile = true
+
+[[files]]
+file = "mods/conquests-medieval-armors-and-weapons.pw.toml"
+hash = "2d03d8c64346ae18c6076a26bb79ae8d332f5470e1ca184c9a124c100d93b535"
 metafile = true
 
 [[files]]
