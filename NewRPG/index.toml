@@ -241,6 +241,11 @@ hash = "6e3de42267e18b37ba96d27a8cf0a147d427caaa95e529784ee3b44832666953"
 metafile = true
 
 [[files]]
+file = "mods/enlightend.pw.toml"
+hash = "1d725211a640efb85942454666179e1c1a01978ed045a0a14ca4686c4b86dbac"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "fa6e35c376181fa82ad33b9cb4c20382a0effd7eb09a06107dcc884b98f49ff2"
 metafile = true
