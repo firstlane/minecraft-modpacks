@@ -551,6 +551,11 @@ hash = "7bca90c4efb4c34f696ee68da4efb80af5106afd82c4252c5a10b08adf8c79d7"
 metafile = true
 
 [[files]]
+file = "mods/shrines.pw.toml"
+hash = "1a5dc776f3012a3a13aca2d5ed4f2c23c5fa03ece30b2620d48ec9584ac35871"
+metafile = true
+
+[[files]]
 file = "mods/smartbrainlib.pw.toml"
 hash = "bd231c766e25e2f3a5fbfa7e7b8ade2536fed16c3a5574dc30b212dc51a75044"
 metafile = true
