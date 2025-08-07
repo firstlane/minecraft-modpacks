@@ -1258,7 +1258,7 @@ hash = "4a46259c46467a382fd17fc8ee8835f3d26f930a0ef4b706b10bc5cb5a299618"
 
 [[files]]
 file = "config/shouldersurfing-client.toml"
-hash = "fe865d8524c48ff248734eb85d278ea097ce19c129652b4e9ae9eecca7c921fc"
+hash = "aa7457dfc55b4b16b7fd534a740698a6f2233693e86cf755f93fd2c0f8562424"
 
 [[files]]
 file = "config/simplyswords_extra/backupconfig.json"
