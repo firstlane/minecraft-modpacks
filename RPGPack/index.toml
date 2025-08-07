@@ -1702,7 +1702,7 @@ metafile = true
 
 [[files]]
 file = "mods/epic-fight.pw.toml"
-hash = "3ea91c588049667c27ab7298c2e34b8f5a5419e4bb0757e92ecc0effc7bc1463"
+hash = "398c9295809099637381ec54263ef020810c8e837217bbffdb2fc50d4b829425"
 metafile = true
 
 [[files]]
