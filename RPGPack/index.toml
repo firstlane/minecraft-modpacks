@@ -1556,6 +1556,11 @@ hash = "e3dd03e7fec88831974857e2cdded54dd5c5bdcaa3f6d6248c2800e82db4dd41"
 metafile = true
 
 [[files]]
+file = "mods/configured.pw.toml"
+hash = "c1bdeff356cd2ac164e2c0e6d0ceeda234db9774c2df44fb9f0e71d3960cc3f1"
+metafile = true
+
+[[files]]
 file = "mods/conquests-medieval-armors-and-weapons.pw.toml"
 hash = "2d03d8c64346ae18c6076a26bb79ae8d332f5470e1ca184c9a124c100d93b535"
 metafile = true
