@@ -889,14 +889,6 @@ file = "config/easyanvils-server.toml"
 hash = "5bf38784a30090fbe2d5bc1a65aa5bd5744b5c9ed8a3abdce37341e5637cb570"
 
 [[files]]
-file = "config/easymagic-client.toml"
-hash = "187085002566bc0ad0bd0262459f92716261ae66c3b96147096a5a4ef7a25abf"
-
-[[files]]
-file = "config/easymagic-server.toml"
-hash = "7dbf42819b121001c76e06c07994c363d316ce110f7b06dd032687f4099d5687"
-
-[[files]]
 file = "config/embeddium-fingerprint.json"
 hash = "edd4a34172ef91d1a03bddbf3721f5feb8ca71f7185da89212cefedd6f299af4"
 
@@ -1623,11 +1615,6 @@ metafile = true
 [[files]]
 file = "mods/easy-anvils.pw.toml"
 hash = "0c91bda0e9a61b15ac8a729678c70af9b9630c8ea6cadf591750b129caa10000"
-metafile = true
-
-[[files]]
-file = "mods/easy-magic.pw.toml"
-hash = "f04c6bc722bee9b7f66eb9a1fd6abc016b60c77fc1c9ae05f8dd4a24225a2709"
 metafile = true
 
 [[files]]
