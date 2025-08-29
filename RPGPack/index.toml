@@ -1658,6 +1658,11 @@ hash = "5ec0c37f3f4ad07a40c10376668bca80334ddb7ad2bab06eb4de8f7aac339c8e"
 metafile = true
 
 [[files]]
+file = "mods/ender-mail.pw.toml"
+hash = "d5bb9d93942d85a64e92a62d24425e65989c80a361f3f80639698a95920b1139"
+metafile = true
+
+[[files]]
 file = "mods/enderpack.pw.toml"
 hash = "53f06635f24e47e3fbecb069dc1261a69c2c40207c66f91bf457f1f21ca28501"
 metafile = true

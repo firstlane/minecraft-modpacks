@@ -1,0 +1,13 @@
+name = "Ender Mail"
+filename = "EnderMail-1.20.1-1.2.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WrQH56oT/versions/SDgLqOnY/EnderMail-1.20.1-1.2.9.jar"
+hash-format = "sha512"
+hash = "a8b6c82c62ec15825e1ee91805781c21ea6d715069bace56c251abe24b8215a90d34c27bafa1dfcf3113dcdfaa8458b307ddcbf00257eba7e0278a531f25e262"
+
+[update]
+[update.modrinth]
+mod-id = "WrQH56oT"
+version = "SDgLqOnY"
