@@ -742,7 +742,7 @@ hash = "344aaf500d3a86cc4c335a0b4590792254ae6e0eea0fc8df9ebdad5b95a75b8f"
 
 [[files]]
 file = "config/badmobs-common.toml"
-hash = "0f9d182b2e49a81ae027782531080387794c01273f8959196ba8bd3071bab9e8"
+hash = "9b3ba26a09137309ec8653512715700c77f8dad8b07cd16216b40227448fb818"
 
 [[files]]
 file = "config/balm-client.toml"

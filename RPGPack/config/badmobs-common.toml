@@ -7610,7 +7610,7 @@
 	#Spawning options for valarian_conquest:bandit_1
 	[valarian_conquest.bandit_1]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -7621,7 +7621,7 @@
 	#Spawning options for valarian_conquest:bandit_2
 	[valarian_conquest.bandit_2]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
@@ -8710,7 +8710,7 @@
 	#Spawning options for valarian_conquest:bandit_3
 	[valarian_conquest.bandit_3]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
