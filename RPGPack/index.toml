@@ -2078,6 +2078,11 @@ hash = "d6204bcaf99e29dc1e7a596aa6ecccb250e764ea786ba19bfebb2234ea9d40fb"
 metafile = true
 
 [[files]]
+file = "mods/storagedrawers.pw.toml"
+hash = "5503d26df9f3c68d3ddd64a4ced0eb5d3ed06723233366dca71dd5671af26d5b"
+metafile = true
+
+[[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "906b1a08e332ab12174bc72e32b1537b7d3f0ae4a01ee7c7d50ec54dd2f057b6"
 metafile = true
