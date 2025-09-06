@@ -13,6 +13,6 @@
   "Aids(troops) from werids enemies (This will happen when werids teleported away)": "On By default",
   "werids_aids": true,
   "This happens when Orcz\u0027s mobs dies": "On By default",
-  "spawn_spore": true,
+  "spawn_spore": false,
   "This should be off(a config for ORCz developer test)": "Off By default"
 }

@@ -1186,7 +1186,7 @@ hash = "e6535b58b4c119079e3838d9a68f85095e89ac1c241e1ba5f3f93e557ebd8875"
 
 [[files]]
 file = "config/orcz_config_0.0.6.json"
-hash = "e746103f223044dfb858bc3d001013ac22b525bf8c873ac63995841d619ae4f7"
+hash = "42f6b39695e21ed3133132b6fad5cc1f35306999a9a7fbaeb8488e973d55776d"
 
 [[files]]
 file = "config/paraglider-common.toml"
