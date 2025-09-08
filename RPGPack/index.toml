@@ -1413,6 +1413,50 @@ file = "config/zeta-common.toml"
 hash = "684816927033626b990f8e277a43c0e24f6ef650cb38f9fee935f974fffd7392"
 
 [[files]]
+file = "kubejs/README.txt"
+hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/example_block.png"
+hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/example_item.png"
+hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
+
+[[files]]
+file = "kubejs/client_scripts/example.js"
+hash = "1412fdc0d28df8c03f17653e162f1b17114ca316148c11a0aa5c08e57dd6f571"
+
+[[files]]
+file = "kubejs/config/client.properties"
+hash = "e8886c2b6f331019368f9c08ff40e6b095dc9bc0a5e9f241d67d95e99f415f79"
+
+[[files]]
+file = "kubejs/config/common.properties"
+hash = "e1ecaa50e6974fcaa0487bebb5ee055b1963182eb711680b856011348db1d598"
+
+[[files]]
+file = "kubejs/config/probe-settings.json"
+hash = "f82f9967e63cb0c8009ca8946fb72aecc6bd7aa989c20056f9acb70f18e6bb25"
+
+[[files]]
+file = "kubejs/server_scripts/example.js"
+hash = "c629d80a032acb89652234942827b98d7f211ab40e7a38a79fefe790a7722ecf"
+
+[[files]]
+file = "kubejs/server_scripts/remove_enlightened_ender_chest_recipe.js"
+hash = "0468126c351fd20cd6885f6fe3dbe532e9da6cadc210570cfdf9fb1b01de02b3"
+
+[[files]]
+file = "kubejs/server_scripts/set_vanilla_ender_chest_recipe.js"
+hash = "b64b4e673d9d1aad0935cc236db235f6a58c7436083fb9664df9b2b4ae3feefd"
+
+[[files]]
+file = "kubejs/startup_scripts/example.js"
+hash = "a55e767460105f9a90f285154e0cca42df05b8731f64999e7daa6598b2ba1733"
+
+[[files]]
 file = "mods/advanced-finders.pw.toml"
 hash = "139343fbca2c83554190e7d91550504f1787ba1d9d08da9a4263f346f7fc5c46"
 metafile = true
