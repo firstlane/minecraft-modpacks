@@ -1,0 +1,13 @@
+name = "EpicFight-Nightfall"
+filename = "EpicFight-Nightfall-20.11.10.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a8e3b14a4a6560b30d48a32383213237c2836d37"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6797947
+project-id = 1307848

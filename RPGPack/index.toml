@@ -1762,6 +1762,11 @@ hash = "6c4b0e77fb08a27e938b1734033fb0f1b8efb8d4ea6a6067d9e650c43f73b662"
 metafile = true
 
 [[files]]
+file = "mods/epicfight-nightfall.pw.toml"
+hash = "fd671ad3fa1942908c28fec097a7d6d41ab2bdaad3e16dd1fc0b77c2e35f8a9d"
+metafile = true
+
+[[files]]
 file = "mods/essential-mod.pw.toml"
 hash = "599e6e0406994fa4810ff35a211317c5c90b04221e58e7c18e368e40ea3de84a"
 metafile = true
