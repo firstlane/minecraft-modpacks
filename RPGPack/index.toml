@@ -1752,6 +1752,11 @@ hash = "cc4926dece87e61770569a0c558f3c2e674e036a92939afe93058d8c4263b96f"
 metafile = true
 
 [[files]]
+file = "mods/epic-fight-avalon.pw.toml"
+hash = "2f23715791ba2312ec05fc499a9e4ae69af351d2275eab92e0003d06edaba863"
+metafile = true
+
+[[files]]
 file = "mods/epic-fight.pw.toml"
 hash = "398c9295809099637381ec54263ef020810c8e837217bbffdb2fc50d4b829425"
 metafile = true

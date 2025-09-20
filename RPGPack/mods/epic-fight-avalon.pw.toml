@@ -1,0 +1,13 @@
+name = "Epic Fight - Avalon"
+filename = "epic_fight_avalon-20.11.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a15e4e5657f1bd3713df1065e0665c9287b89881"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6797797
+project-id = 1268823
