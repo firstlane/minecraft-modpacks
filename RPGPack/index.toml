@@ -1757,6 +1757,11 @@ hash = "2f23715791ba2312ec05fc499a9e4ae69af351d2275eab92e0003d06edaba863"
 metafile = true
 
 [[files]]
+file = "mods/epic-fight-invincible.pw.toml"
+hash = "bc4bcd310092cb6aa60b9bba72af904cc4776372c3e88582621e4ad2570b1cb0"
+metafile = true
+
+[[files]]
 file = "mods/epic-fight.pw.toml"
 hash = "398c9295809099637381ec54263ef020810c8e837217bbffdb2fc50d4b829425"
 metafile = true

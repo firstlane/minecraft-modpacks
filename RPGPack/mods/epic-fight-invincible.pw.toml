@@ -1,0 +1,13 @@
+name = "Epic Fight - Invincible Lib"
+filename = "invincible-forge1.20.1-20.12.2.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "08ac4d002ea61e014b6858f8886e6e3741c5ddcd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6967852
+project-id = 1184379
