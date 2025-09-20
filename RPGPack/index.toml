@@ -2157,6 +2157,11 @@ hash = "3b61fcf1c80cfdd79282be71ddfa9cce02fc13f8d87a760db455e2a97b801f40"
 metafile = true
 
 [[files]]
+file = "mods/thalassophobia.pw.toml"
+hash = "86e4251aecf46b6e60f78706dcbf0d62a8f95dad298ac37f2f4a69596d9dbf9e"
+metafile = true
+
+[[files]]
 file = "mods/threateningly-mobs.pw.toml"
 hash = "01eb10c4719bb0745203eed9bb9cdbc949f68e5842b659ed92acf3a35673e664"
 metafile = true
