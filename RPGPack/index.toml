@@ -2212,6 +2212,11 @@ hash = "de4b3b898a16ed4d615cfce18ac872e6a963605d52072d290b495cdff160a34c"
 metafile = true
 
 [[files]]
+file = "mods/wither-reincarnated.pw.toml"
+hash = "c0ea2bc41aad92d3083cf833b2f447032fb4901cf5ec0e4cf62a35b4e7034d1f"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "1a592e56f6720b44d1031d2d715d454eff2099e915160c0c75f853ae8b314b15"
 metafile = true
