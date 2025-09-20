@@ -1,0 +1,11 @@
+name = "EpicFight - Wither: Reincarnated Compatibility"
+filename = "disable_wither_epicfight.zip"
+side = "server"
+
+[download]
+url = "https://firstlane.github.io/minecraft-modpacks/datapacks/disable_wither_epicfight.zip"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "5ac64d1717efa9f5e7fb13d45514975352e58019ec6dd0e40f86d12b9200d05d"
