@@ -1413,6 +1413,15 @@ file = "config/zeta-common.toml"
 hash = "684816927033626b990f8e277a43c0e24f6ef650cb38f9fee935f974fffd7392"
 
 [[files]]
+file = "datapacks/disable_wither_epicfight.zip"
+hash = "5ac64d1717efa9f5e7fb13d45514975352e58019ec6dd0e40f86d12b9200d05d"
+
+[[files]]
+file = "datapacks/epicfight-wither-reincarnated-compatibility.pw.toml"
+hash = "5e4b51b6c7f7d4aca92d8f3bc48df31e7bed14010a29a6d96443ba779922435c"
+metafile = true
+
+[[files]]
 file = "kubejs/README.txt"
 hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 
