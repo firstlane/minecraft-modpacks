@@ -1413,10 +1413,6 @@ file = "config/zeta-common.toml"
 hash = "684816927033626b990f8e277a43c0e24f6ef650cb38f9fee935f974fffd7392"
 
 [[files]]
-file = "datapacks/disable_wither_epicfight.zip"
-hash = "5ac64d1717efa9f5e7fb13d45514975352e58019ec6dd0e40f86d12b9200d05d"
-
-[[files]]
 file = "kubejs/README.txt"
 hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 
@@ -2348,4 +2344,9 @@ metafile = true
 [[files]]
 file = "resourcepacks/lower-grass.pw.toml"
 hash = "8ba11b1fe1f5d85c8b07ac7b06a6185b03b37e13f2310a4cd1bf960c934efe9e"
+metafile = true
+
+[[files]]
+file = "world/datapacks/epicfight-wither-reincarnated-compatibility.pw.toml"
+hash = "0ebe95822b2f846a9f208b129026afde7cb10274c84a65526feb792d15080ac6"
 metafile = true
