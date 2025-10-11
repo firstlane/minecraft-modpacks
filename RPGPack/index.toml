@@ -2303,7 +2303,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/3d-ladders.pw.toml"
-hash = "ffe209fc20f9dc1e0c986a83ac17a2422d2b62a15bd6836a46247a756c45dacb"
+hash = "badc58de98fb8488ad3e34448b5b23ceed0813d7c204cbe8adffafa77612a48e"
 metafile = true
 
 [[files]]
@@ -2313,7 +2313,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/better-lights.pw.toml"
-hash = "c6699e429ed376f95c8a26e1a3db78ffb644b359bababc55a3dd2c038726be42"
+hash = "19a7ffc5ab99f889bb35b61cee766db3bc541739bd968948b3fb17e372fc914a"
 metafile = true
 
 [[files]]
