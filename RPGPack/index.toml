@@ -862,11 +862,11 @@ hash = "debf0d9fa5aefe23d94101b9604b448d4889c9586c65c47c089d2778cd6fed1c"
 
 [[files]]
 file = "config/easy_mob_farm/mob_capture_card.cfg"
-hash = "08c3a8f66e8caabf773f89ddc254d9d2eb533e6e12097b1dacdf0d950c5591f2"
+hash = "5a82d3af45821979209a8a33cf891b1b5d62ec4287514cebeed98469310b808e"
 
 [[files]]
 file = "config/easy_mob_farm/mob_catcher.cfg"
-hash = "75e5aa450714d55e0ddd7d94db6ff2dfd04c19d4976ddb37ae0df3654f7ae0ff"
+hash = "4fd8eedcc3ad6b9b527b9cdb3db81547831cd1dc2c7b07988fe38d36e49316c3"
 
 [[files]]
 file = "config/easy_mob_farm/mob_farm.cfg"
