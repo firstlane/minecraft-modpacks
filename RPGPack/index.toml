@@ -1357,6 +1357,10 @@ file = "config/tectonic.json"
 hash = "6182d9b5caace521a7429905796002e5f6c560e4a19828bfc79e057112084bfa"
 
 [[files]]
+file = "config/toms_storage-server.toml"
+hash = "5ab94b77745fb2496a19a15dd96b49ce10723f68d088b41d70d1e7d7157af9c6"
+
+[[files]]
 file = "config/towns_and_towers/structure_enable_or_disable_new.json5"
 hash = "3aaa6ac8835dbbce97928c4d0d03f9957749a7a57a3f1668597310e9227900da"
 
