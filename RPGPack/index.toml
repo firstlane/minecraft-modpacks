@@ -817,6 +817,10 @@ file = "config/cataclysm/koboleton_spawns.json"
 hash = "5831a4da569ac4fb3d7d5396967281b8bdad765c25cf3cd5c6a5d708952c2b16"
 
 [[files]]
+file = "config/chunkloaders-common.toml"
+hash = "5b39e4631e779566c0bc3e2717bb8ee6cbc6dd363704ab868c43422dc55b1788"
+
+[[files]]
 file = "config/chunky/config.json"
 hash = "c7384a22595488f79f3125b22cc175eb729267267807a084479419349797abc8"
 
