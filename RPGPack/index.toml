@@ -2076,6 +2076,11 @@ hash = "2baa9ef40b8cea6397998245f451d8d5c65c97633562bae8d3db7c442d3b02c7"
 metafile = true
 
 [[files]]
+file = "mods/scp-3000-anatashesha.pw.toml"
+hash = "0812981a14181b756b08e7038a1e411e38be413bdf32fc84c5001c2a18575142"
+metafile = true
+
+[[files]]
 file = "mods/serene-seasons.pw.toml"
 hash = "7f38bb5c863c04b013a2c6ed75d799525ba3cc5a548279adde6e9329ff308dd4"
 metafile = true

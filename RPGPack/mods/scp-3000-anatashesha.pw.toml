@@ -1,0 +1,13 @@
+name = "SCP-3000, Anatashesha"
+filename = "Anatashesha-forge-1.20.1-1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9410edd6048ddc5156eede243d64fce6fa63cc7a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7180917
+project-id = 1323369
