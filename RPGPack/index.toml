@@ -1576,6 +1576,11 @@ hash = "8a8ea0af79b88d9c192d208aa5be4bacd934e2b92d4721566e2e796eb9761e10"
 metafile = true
 
 [[files]]
+file = "mods/camerapture.pw.toml"
+hash = "bb4a4e8b00d292b5a6bfe14d57aa97eb6f3da7a04ece1eae7ac4ea4a5677db89"
+metafile = true
+
+[[files]]
 file = "mods/carry-on.pw.toml"
 hash = "a613f5d2df911fea606968bbdb56eebfd05ac02ada846cf0d2e56e72345d9338"
 metafile = true
