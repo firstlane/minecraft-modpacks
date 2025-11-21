@@ -1786,6 +1786,11 @@ hash = "a0b3f914a386d4236744bc749156bb7eca1014179a50e340af1ea4741198782f"
 metafile = true
 
 [[files]]
+file = "mods/exposure.pw.toml"
+hash = "ce198cf0e4ac56f35c03b5e721eacbd6c6bc86b6ab318c4c7259082edb625fc2"
+metafile = true
+
+[[files]]
 file = "mods/fallingtree.pw.toml"
 hash = "9603820d581a491036461500b9bf463ec82f8dc00d4c80813e5da84ce43e8a50"
 metafile = true
