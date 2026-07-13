@@ -1216,7 +1216,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-cobblestats.pw.toml"
-hash = "7fccdb52044e388ae7210fe2f92bb9530eb4535a25d30c459e957d5694bce777"
+hash = "e582ce99b0ea3faeec2d3f4ef39ccb68bb12a534ce30a08cbd6c284416865b05"
 metafile = true
 
 [[files]]
@@ -1241,7 +1241,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-pasture-loot.pw.toml"
-hash = "ccddc962d319c9545bb292636db20c3bbc7c70b6d8c388d51fe445b8a9aee953"
+hash = "60026914239a0f4d659e13f2fe9e8413555969494f41c3e5ddddd8fd78aa4251"
 metafile = true
 
 [[files]]
@@ -1261,7 +1261,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-size-variations.pw.toml"
-hash = "473eef38b8032fd6f4cb05517911bb031de950cc586326a810fee498985e868a"
+hash = "caa5f226f3ed235195f2298d81bd7426c2c2f6e34dbb33e9fd562f962d79493f"
 metafile = true
 
 [[files]]
@@ -1626,7 +1626,7 @@ metafile = true
 
 [[files]]
 file = "mods/only-bottle-caps.pw.toml"
-hash = "b790254d3da39f7610fcdf20e9703ee3dc00496211bdbe9c3bf5369e6b567749"
+hash = "8339a2d8666479ba063105ae579110b6352c3224f7e415371b977b7f9cd9ee88"
 metafile = true
 
 [[files]]
@@ -1816,7 +1816,7 @@ metafile = true
 
 [[files]]
 file = "mods/tmcraft.pw.toml"
-hash = "28c85fa635e64afadbc7d4aa86c6d7558b195861d575ee471fcda3ed1adf22e6"
+hash = "a9d41aee2413beec0770d6ccad47a544fe1e21d7af2aa42796832c5e8bfd3062"
 metafile = true
 
 [[files]]
