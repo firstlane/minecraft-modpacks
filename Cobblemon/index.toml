@@ -1361,7 +1361,7 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "4d8b1c657ef835d9ec7637da9db785fcefedcb5915c7abe2e307e06e6c90547f"
+hash = "361330034e4eb9e5864095e04a9f6a171b09149818af3f9d00e9d8688c7aeaf5"
 metafile = true
 
 [[files]]
@@ -1376,7 +1376,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "ef6949de620cfb7c125cd8020324371e365b345cd0aa23230df296654aea3297"
+hash = "dafa7e4c9cea9a75a916c911e76fefebcd94e7dbeb5442b312b05fc471e5b4b0"
 metafile = true
 
 [[files]]
@@ -1621,7 +1621,7 @@ metafile = true
 
 [[files]]
 file = "mods/omnicut-better-wood-stone-cutter.pw.toml"
-hash = "32f0128ced75138a121bd4da97bc30a4af381e1db57a5addad4d8c818e02744f"
+hash = "ec2ada093c9fd15dbc3e412b220453c39ae5e453d6e7e69d66d9e11b703fb835"
 metafile = true
 
 [[files]]
@@ -1636,7 +1636,7 @@ metafile = true
 
 [[files]]
 file = "mods/packet-fixer.pw.toml"
-hash = "e2a69821dd6a5a1642171ae07b2cd9dc1a2a15b6eae52c72612ea58a95aaeab9"
+hash = "506417220c7fab9877b5d852414c03f88eedbdb5b95ddc019597b872ad17b16d"
 metafile = true
 
 [[files]]
@@ -1786,7 +1786,7 @@ metafile = true
 
 [[files]]
 file = "mods/stackdeobf.pw.toml"
-hash = "b3cf7c6b9f88debe7ea9c6b87ccd8b6a4f254251688a77178ffee0ae95de887e"
+hash = "95283cf28445e37b6a3f6fd9b9e42f73b01c3fcf5b9a8a0088a5424524d339dc"
 metafile = true
 
 [[files]]
