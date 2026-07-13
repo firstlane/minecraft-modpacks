@@ -1,10 +1,6 @@
 filename = 'Alexandria-1.0.3.3.2+1.21.1-fabric.jar'
 name = 'Alexandria Lib'
 side = 'both'
-x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.0.3.3'
 
 [download]
 hash = '8044d39f918ae34e5d733460f66593d34161d0b25310a1f0d5cdf1e837f072e608d1f6122dd0abc20d44844ba8cd3118e61e944a5fe84edb2acfe58ec9ab219a'
@@ -15,19 +11,3 @@ url = 'https://cdn.modrinth.com/data/QvtrGaih/versions/XyZJELno/Alexandria-1.0.3
 [update.modrinth]
 mod-id = 'QvtrGaih'
 version = 'XyZJELno'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'P7dR8mSH'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = '9s6osm5g'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'lhGA9TYQ'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'mOgUt4GM'
-type = 'OPTIONAL'

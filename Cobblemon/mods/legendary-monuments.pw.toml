@@ -1,10 +1,6 @@
 filename = 'LegendaryMonuments-Cobbleverse.jar'
 name = 'Cobblemon: Legendary Monuments'
 side = 'both'
-x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'LM-Cobbleverse'
 
 [download]
 hash = '7c62183d6ef32ca43bcc745fb6082c50dc0814cd633fd81fc0a48cdc84b3801930ab5c792cfc6332311bf4da35461d2f871a956ff45ba5dc3eb25563924a87ad'
@@ -15,7 +11,3 @@ url = 'https://cdn.modrinth.com/data/m6RyHSbV/versions/RtYJBrxd/LegendaryMonumen
 [update.modrinth]
 mod-id = 'm6RyHSbV'
 version = 'RtYJBrxd'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'MdwFAVRL'
-type = 'REQUIRED'

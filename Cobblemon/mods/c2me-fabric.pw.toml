@@ -1,11 +1,6 @@
 filename = 'c2me-fabric-mc1.21.1-0.3.0+alpha.0.362.jar'
 name = 'Concurrent Chunk Management Engine (Fabric)'
 side = 'both'
-x-prismlauncher-dependencies = []
-x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'alpha'
-x-prismlauncher-version-number = '0.3.0+alpha.0.362+1.21.1'
 
 [download]
 hash = '8653a751eb2ad1ad70da38017ccad0ee2bda5448ffe405d28049f09a61936765303f63ba4fcff798f32bb1e6b4645e892c275515b69c98c1730e24caab0ba7e0'

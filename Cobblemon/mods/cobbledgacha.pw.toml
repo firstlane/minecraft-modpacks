@@ -1,10 +1,6 @@
 filename = 'cobbledgacha-fabric-1.21.1-3.0.3.jar'
 name = 'CobbledGacha v.3 [Cobblemon 1.7] [Fabric/NeoForge 1.21.1]'
 side = 'server'
-x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'CobbledGacha v.3.0.3 Fabric'
 
 [download]
 hash = '333a38b02471dddc0a3efc03dc70a82a23a6d2d7'
@@ -15,11 +11,3 @@ url = ''
 [update.curseforge]
 file-id = 7787788
 project-id = 1419903
-
-[[x-prismlauncher-dependencies]]
-addonId = '388172'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = '687131'
-type = 'REQUIRED'

@@ -1,10 +1,6 @@
 filename = 'moreculling-fabric-1.21.1-1.0.7.jar'
 name = 'More Culling'
 side = 'client'
-x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.0.7'
 
 [download]
 hash = '780abe790ff8b6ecaf22527a0be632147263c9729abf5db6aa4c50aabee76c00fa8516d92f204064b3bae44bdfc1b94ffb8c86201f36152dae8311c7173501d5'
@@ -15,7 +11,3 @@ url = 'https://cdn.modrinth.com/data/51shyZVL/versions/y4J2jK6V/moreculling-fabr
 [update.modrinth]
 mod-id = '51shyZVL'
 version = 'y4J2jK6V'
-
-[[x-prismlauncher-dependencies]]
-addonId = '9s6osm5g'
-type = 'REQUIRED'

@@ -1,10 +1,6 @@
 filename = 'lootrmon-fabric-1.21.1-0.0.0.3.jar'
 name = 'Lootrmon: Lootr & Cobblemon Gilded Chest Compatibility'
 side = 'both'
-x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'alpha'
-x-prismlauncher-version-number = '0.0.0.3'
 
 [download]
 hash = 'bacfc3d4f40881f650096c1aa3d10658bf6555cef6179f0222ad6999f5c9517c29d22a127b4d0bec1128c9a6c0369ab167057799653c1275fd93f4068b52f115'
@@ -15,19 +11,3 @@ url = 'https://cdn.modrinth.com/data/ywwXJDli/versions/nquNxBhW/lootrmon-fabric-
 [update.modrinth]
 mod-id = 'ywwXJDli'
 version = 'nquNxBhW'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'P7dR8mSH'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = '9s6osm5g'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'EltpO5cN'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'MdwFAVRL'
-type = 'REQUIRED'

@@ -1,9 +1,6 @@
 filename = 'StackDeobfuscatorFabric-1.4.3+08e71cc.jar'
 name = 'StackDeobfuscator'
 side = 'both'
-x-prismlauncher-dependencies = []
-x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [
     '1.14',
     '1.14.1',
     '1.14.2',
@@ -285,8 +282,6 @@ x-prismlauncher-mc-versions = [
     '25w45a',
     '25w46a'
 ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.4.3'
 
 [download]
 hash = 'ef851d54a60e223e90cfd21da91effcdc70175dd32b194366ca3ba29646c9ebdbfb60a1eaa88070c4e9f83bd654da1344e67226dfdf5c68140db4ef693361353'
