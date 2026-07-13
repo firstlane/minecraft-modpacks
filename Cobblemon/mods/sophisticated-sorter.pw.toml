@@ -1,6 +1,6 @@
 filename = 'sophisticatedsorter-fabric-1.21.1-1.0.6.jar'
 name = 'Sophisticated Sorter'
-side = ''
+side = 'both'
 
 [download]
 hash = 'b7d88697113f6d104c8a15374ccf32cc6bf31e843cc44cea1f17d4a320f6081f4e333026715543ceed21829e37c0e7d496e664eb822859f26f7592c337b47be1'

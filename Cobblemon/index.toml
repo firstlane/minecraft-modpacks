@@ -1536,7 +1536,7 @@ metafile = true
 
 [[files]]
 file = "mods/melody.pw.toml"
-hash = "cea28cbbf4f9fb5a9c7d681e29a4a71887aeeeab19f062f6cd1acfed267e6c05"
+hash = "e18b8492e1d2b2b18c23966b860a6cfee28f65b428d8935e6f21b6f31c44d8c6"
 metafile = true
 
 [[files]]
@@ -1766,7 +1766,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-sorter.pw.toml"
-hash = "c107b7386e81d2cd9cfbdc40f3518d06b4b7fe169b4dad14dcec95ec0fda976c"
+hash = "95e246d9e7d242da88497bdbe6742e364af69d473074ea0173950b78edcd6164"
 metafile = true
 
 [[files]]
