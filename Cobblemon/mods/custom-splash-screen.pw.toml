@@ -1,11 +1,6 @@
 filename = 'customsplashscreen-2.2.0.jar'
 name = 'Custom Splash Screen'
 side = 'client'
-x-prismlauncher-dependencies = []
-x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '2.2.0'
 
 [download]
 hash = '08c99c6eb998ce7caeffc42567e07b08717a6c8cff617f623ab04006097ad86f7971ae3400e905174fbd5b64c2787017f9b8ee53048e2a793be9aaae80950683'

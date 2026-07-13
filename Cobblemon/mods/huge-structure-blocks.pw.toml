@@ -1,10 +1,6 @@
 filename = 'huge-structure-blocks-fabric-1.1.6.jar'
 name = 'Huge Structure Blocks'
 side = 'both'
-x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.21.1-1.1.6'
 
 [download]
 hash = '1dc8769007e3f41010e9fbe53c2f39669a67b75b74bac27b780493f07184c0a62c8699dd624108229e4e577ff1a5a90cceb5c951602f59431e2f3de7e7bc19ff'
@@ -15,7 +11,3 @@ url = 'https://cdn.modrinth.com/data/AMLtKGdJ/versions/jZrAT0D5/huge-structure-b
 [update.modrinth]
 mod-id = 'AMLtKGdJ'
 version = 'jZrAT0D5'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'P7dR8mSH'
-type = 'REQUIRED'

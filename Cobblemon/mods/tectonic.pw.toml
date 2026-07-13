@@ -1,10 +1,6 @@
 filename = 'tectonic-3.0.22-fabric-21.1.jar'
 name = 'Tectonic'
 side = 'both'
-x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '3.0.22-fabric-21.1'
 
 [download]
 hash = 'c6b95edcb0c472471278bfffc3cf03fcbc78e4fc03376f7ac8935d1b3d11e402b962b785e266a546232562e4d8cf6aba9ad3a94513e716bd162ec95881dbeef0'
@@ -15,11 +11,3 @@ url = 'https://cdn.modrinth.com/data/lWDHr9jE/versions/cXSQRWNy/tectonic-3.0.22-
 [update.modrinth]
 mod-id = 'lWDHr9jE'
 version = 'cXSQRWNy'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'P7dR8mSH'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'XaDC71GB'
-type = 'REQUIRED'

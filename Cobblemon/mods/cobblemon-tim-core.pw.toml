@@ -1,10 +1,6 @@
 filename = 'timcore-fabric-1.7.3-1.31.0.jar'
 name = 'Cobblemon Tim Core'
 side = 'server'
-x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.7.3-fabric-1.31.0'
 
 [download]
 hash = '612c0f14539b8ba6184f16557b374754c0650ce3014d3506d27eff012d9ef84a181081bca847588f8127f77ce82b02aa6d3fa2ee55829ac2b9047b5d89e0d012'
@@ -15,7 +11,3 @@ url = 'https://cdn.modrinth.com/data/lVP9aUaY/versions/yPG8odLw/timcore-fabric-1
 [update.modrinth]
 mod-id = 'lVP9aUaY'
 version = 'yPG8odLw'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'MdwFAVRL'
-type = 'REQUIRED'

@@ -1,10 +1,6 @@
 filename = 'respackopts-4.14.0+1.21.1.4.jar'
 name = 'Respackopts'
 side = 'both'
-x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '4.14.0+1.21.1.4'
 
 [download]
 hash = '7cf3eae0f90a8e8db95ada3782d1df74196c79ae7b70a8b345ede5b64e710ee8df36414a6ab471c97b4fb4e12f21e92a83698b685d2f7288daa493bc3ec05ddc'
@@ -15,11 +11,3 @@ url = 'https://cdn.modrinth.com/data/TiF5QWZY/versions/y5eBSMkZ/respackopts-4.14
 [update.modrinth]
 mod-id = 'TiF5QWZY'
 version = 'y5eBSMkZ'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'P7dR8mSH'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'WKwQAwke'
-type = 'REQUIRED'

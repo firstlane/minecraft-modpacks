@@ -1,10 +1,6 @@
 filename = 'PickableVillagers-3.3.4+1.21.1-fabric.jar'
 name = 'Pickable Villagers'
 side = 'both'
-x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '3.3.4'
 
 [download]
 hash = '876ab5f64e5b72343b10d615c0a830bda6b6b080dc5a6fee126a276139204a0af4bd8e8bf15564e0b6eec8e98ca46f341a93f06a2cd6e9abfa180f1eec9c506b'
@@ -15,23 +11,3 @@ url = 'https://cdn.modrinth.com/data/lMRqnKVq/versions/ScKT8zbm/PickableVillager
 [update.modrinth]
 mod-id = 'lMRqnKVq'
 version = 'ScKT8zbm'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'mOgUt4GM'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'QvtrGaih'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'lhGA9TYQ'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = '9s6osm5g'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'P7dR8mSH'
-type = 'REQUIRED'

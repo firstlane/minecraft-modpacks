@@ -1,10 +1,6 @@
 filename = 'VanillaBackport-fabric-1.21.1-1.1.6.3.jar'
 name = 'Vanilla Backport'
 side = 'both'
-x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.1.6.3'
 
 [download]
 hash = 'e75b73eda047e4d4b3504985aadcacf951944c27f523d0bc17b139b19a3b6170f745fd285790fe6a0e215bfa0f06b862095c160b6c79bc026aa0cd5d4f3277e0'
@@ -15,7 +11,3 @@ url = 'https://cdn.modrinth.com/data/6xwxDTgf/versions/wAeQBuFY/VanillaBackport-
 [update.modrinth]
 mod-id = '6xwxDTgf'
 version = 'wAeQBuFY'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'i6fiqm5y'
-type = 'REQUIRED'

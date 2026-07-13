@@ -1,10 +1,6 @@
 filename = 'cobblemonextrastructures-1.21.1-1.3.0-fabric.jar'
 name = 'Cobblemon: Extra Structures'
 side = 'both'
-x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.21.1-1.3.0'
 
 [download]
 hash = '5819e2b4e136e7438559e767fe873190b52f57d8c657b0d55a4524522ac008188fde0e9dab5801b6fb5984a6807b345536acda864def876d8651c466de5a8bc8'
@@ -15,11 +11,3 @@ url = 'https://cdn.modrinth.com/data/IkJ2gbjT/versions/if8INxVC/cobblemonextrast
 [update.modrinth]
 mod-id = 'IkJ2gbjT'
 version = 'if8INxVC'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'VSNURh3q'
-type = 'INCOMPATIBLE'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'MdwFAVRL'
-type = 'REQUIRED'
