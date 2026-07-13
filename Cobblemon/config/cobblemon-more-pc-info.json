@@ -1,0 +1,10 @@
+{
+  "enabled": true,
+  "side": "TOP",
+  "offsetX": 0,
+  "offsetY": 0,
+  "hoverDelayMs": 0,
+  "showAspectTooltip": true,
+  "shadow": true,
+  "animations": true
+}

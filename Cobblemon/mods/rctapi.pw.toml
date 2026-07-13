@@ -1,0 +1,25 @@
+filename = 'rctapi-fabric-1.21.1-0.15.0-beta.jar'
+name = 'Radical Cobblemon Trainers API'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '0.15.0-beta'
+
+[download]
+hash = 'dc7fb3db0ec3f655d02fd13a905943e4b14ee46963d6d7df381658277c28706889f8ae515f291c9f1627acb8f84457661e2bcaf1a0e6d932aaa7222df9164d07'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/CBfM2yw7/versions/kwYWScnz/rctapi-fabric-1.21.1-0.15.0-beta.jar'
+
+[update.modrinth]
+mod-id = 'CBfM2yw7'
+version = 'kwYWScnz'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'MdwFAVRL'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'lhGA9TYQ'
+type = 'REQUIRED'

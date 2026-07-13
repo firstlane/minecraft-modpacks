@@ -1,0 +1,26 @@
+filename = 'cobblestats-fabric-1.9.2+1.21.1.jar'
+name = 'Cobblemon: CobbleStats'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.9.2+1.21.1'
+
+[download]
+hash = 'de4e3b84d0baa9be8d674b4ae0b4e8ed2c4e46dfe5c5f3debe7fcc6d27bd12fee0eb7e597410f4a1c74cc348a49494bc2974dfc2c3ab8ffad04e3b2652a1298a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/jlXFcQk4/versions/uxsx4bK4/cobblestats-fabric-1.9.2%2B1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'jlXFcQk4'
+version = 'uxsx4bK4'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'GebWh45l'
+type = 'OPTIONAL'
+version = 'cTCPtFD0'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'MdwFAVRL'
+type = 'REQUIRED'
