@@ -1,0 +1,21 @@
+filename = 'cobblemonopponents-fabric-1.7.0.jar'
+name = 'Cobblemon Trainer Structures'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.7.0'
+
+[download]
+hash = 'de318709616631dae6fb2254c32fd7ebc203e20b1b9dc4192332245c00bc165086edbfc45e25d33376b8ecbdd4cb0fc1a4c114fd3dea7fe97f9b971eef64da25'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/12e2QV8Q/versions/ZBVmoZXN/cobblemonopponents-fabric-1.7.0.jar'
+
+[update.modrinth]
+mod-id = '12e2QV8Q'
+version = 'ZBVmoZXN'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'MdwFAVRL'
+type = 'REQUIRED'

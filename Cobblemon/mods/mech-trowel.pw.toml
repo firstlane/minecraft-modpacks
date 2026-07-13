@@ -1,0 +1,18 @@
+filename = 'mechtrowel-1.3.2.jar'
+name = 'Mech Trowel'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.3.2'
+
+[download]
+hash = '9c684a1300de78bde9acad257e21e1538347ac62ebd0071adacd07158c26411889e529fc9312bcb4115fd433f749755dededf51adff7ba9564fc0660b5304883'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/nqFNRALS/versions/WZdn2ZrS/mechtrowel-1.3.2.jar'
+
+[update.modrinth]
+mod-id = 'nqFNRALS'
+version = 'WZdn2ZrS'

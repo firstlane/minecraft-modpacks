@@ -1,0 +1,27 @@
+{
+  "trowelDurability": 0,
+  "singlePlaceDurabilityCost": 1,
+  "wandPlaceDurabilityCost": 8,
+  "replaceModeEnabled": true,
+  "gradientEnabled": true,
+  "maxPalettes": 28,
+  "wandMaxBlocks": 81,
+  "wandMaxRange": 31,
+  "wandUpgradeEnabled": true,
+  "wandCapacityUpgradeEnabled": true,
+  "wandModeWithoutUpgrade": false,
+  "replaceBlacklistBlocks": [
+    "minecraft:bedrock",
+    "minecraft:end_portal",
+    "minecraft:command_block",
+    "minecraft:barrier"
+  ],
+  "replaceBlacklistTags": [
+    "#minecraft:wither_immune"
+  ],
+  "chippedConversionUpgradeEnabled": true,
+  "reachUpgradeEnabled": true,
+  "reachUpgradeBonus": 4.0,
+  "ae2UpgradeEnabled": true,
+  "rsUpgradeEnabled": true
+}
