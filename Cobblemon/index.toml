@@ -1081,7 +1081,7 @@ metafile = true
 
 [[files]]
 file = "mods/advancementdisable.pw.toml"
-hash = "cd744d488ae7d3fbd8b76c89906be6d8c69059e346b4a6980cb9b4fe199e8162"
+hash = "c0ca3f03fa3914b08f58062e853296067bf076b5af3211fb7bb34d15c2bf9891"
 metafile = true
 
 [[files]]
