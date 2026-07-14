@@ -5,5 +5,6 @@ side = 'both'
 [download]
 hash = '1fa9df1e934ad432c35d119bafb64930aa222f4e12ca628f1e676948100291af1f9166e5855fe8ef2ff082f5c4524a3a9a3722bb2fdc6cc7143758c714cb1454'
 hash-format = 'sha512'
-mode = 'metadata'
+mode = 'url'
+url = "https://firstlane.github.io/minecraft-modpacks/Cobblemon/mods/cobblemon-battle-positions-1.1.3.jar"
 
