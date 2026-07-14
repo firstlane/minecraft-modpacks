@@ -49,10 +49,6 @@ file = "config/betterf3.json"
 hash = "944c687624b697dc97975e190dab3ca2f3bcce9b330ead917141a0d8994474e0"
 
 [[files]]
-file = "config/betterthirdperson.json5"
-hash = "9c8fd475c4f72386a90b43a1d4b5f1e6ec5fb09574bd6e0c7f33b4d2a3c46300"
-
-[[files]]
 file = "config/biome_replacer.properties"
 hash = "382c1f21cd970d8676cd442578e79368587e2eecba6087934d73600cf812a217"
 
@@ -207,18 +203,6 @@ hash = "beb06c33b28f9ebeadd173b446f95ff5128020cd3e1c5a0c83a41c13fd05890e"
 [[files]]
 file = "config/cobblemonraiddens/tier_two.json5"
 hash = "41abef2f4b9e39d1b307801fc26be821891e258a14d2596fb784363eb6c4b0eb"
-
-[[files]]
-file = "config/cobblemonsizevariation/config.json"
-hash = "b38904f3c04b36b98fb69768403c77014bbc5128ff0beb2a0feb9a910b24e045"
-
-[[files]]
-file = "config/cobblemonsizevariation/sizes/basic.json"
-hash = "0d2e72dff8d55ebe156d9beba4b9b8989fa0d09b0dd90eba13747bcb757e7257"
-
-[[files]]
-file = "config/cobblemonsizevariation/sizes/gen9.json"
-hash = "ac23f299e2dbf56a9b3c3791052c93d4d1c2a8bc0683a5025b8738275df3f060"
 
 [[files]]
 file = "config/cobblenav/client-config.json"
@@ -693,10 +677,6 @@ file = "config/midnightlib.json"
 hash = "b14c45c6447f9ee5474d70784a2ef96731abbeca1e92485b7599e76e9dce1444"
 
 [[files]]
-file = "config/mobsbegone-blacklist.json"
-hash = "5b8df17a498eb57d7f717d1587be08661de44139f8e3e2ae2a2f016115d5c973"
-
-[[files]]
 file = "config/modernfix-mixins.properties"
 hash = "c03abaae9129778eea5bb05201ffb5ecd8aaeae8d1eb16255d97caba0b96ca87"
 
@@ -723,10 +703,6 @@ hash = "3ae1ca2df618b3449ef0e9cadddf87af33ddefac4ac2542b0983d9b5ba25fd07"
 [[files]]
 file = "config/nethermap.toml"
 hash = "b07e929a45bed93594b8134b856c3b791f8ba678a8c698fb52a54df17ea488b9"
-
-[[files]]
-file = "config/notebook.json"
-hash = "cb9a7fdcf20f5b7f9f86e6be0d2e7c324eab462dadcbbe8e5f4271a47708ee3d"
 
 [[files]]
 file = "config/notenoughanimations.json"
@@ -1130,11 +1106,6 @@ hash = "1907f9813c42d2948fa2ced9d22b1c71c527398b7204bac31001a943861dfc4f"
 metafile = true
 
 [[files]]
-file = "mods/better-third-person.pw.toml"
-hash = "a164ecd831c0279786cc47f95b82e271110e6c3cf6d739ad7136ec164cf934ed"
-metafile = true
-
-[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "55ace2d503ab17528908838eb2a28372bb0007897587936f7afc440dac7fce0c"
 metafile = true
@@ -1215,11 +1186,6 @@ hash = "c08982c312257a16ca3737d64eec43bc99edb821ffbfa1e4bda6c9c3db82a75a"
 metafile = true
 
 [[files]]
-file = "mods/cobblemon-cobblestats.pw.toml"
-hash = "e582ce99b0ea3faeec2d3f4ef39ccb68bb12a534ce30a08cbd6c284416865b05"
-metafile = true
-
-[[files]]
 file = "mods/cobblemon-fight-or-flight-reborn.pw.toml"
 hash = "a237ed42dd837ae6e806958de622228852fe485f2d681f3b9dd1a3857d894094"
 metafile = true
@@ -1257,11 +1223,6 @@ metafile = true
 [[files]]
 file = "mods/cobblemon-safepastures.pw.toml"
 hash = "d0ac1efc67288b47fff2bc4c9dad48d8b889d6b72571178124911d8b86b06f9e"
-metafile = true
-
-[[files]]
-file = "mods/cobblemon-size-variations.pw.toml"
-hash = "caa5f226f3ed235195f2298d81bd7426c2c2f6e34dbb33e9fd562f962d79493f"
 metafile = true
 
 [[files]]
@@ -1550,11 +1511,6 @@ hash = "9ffde5465d276a524981bedb4dc9fac06855c6c2202e6b816880f5d52c215afb"
 metafile = true
 
 [[files]]
-file = "mods/mobsbegone.pw.toml"
-hash = "60dbca1c537f3623b5616e79d89a573a7d3554af58881d1f894de4e806bc29fd"
-metafile = true
-
-[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "1412b3e56efa30a93b4efaea3e22e886826bfcb42ba212362b066318c4ab5578"
 metafile = true
@@ -1602,11 +1558,6 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "ddb01f95b0f42b9b30a44347375e04ea344e472a27213cf835fc56cf8279e96f"
-metafile = true
-
-[[files]]
-file = "mods/notebook.pw.toml"
-hash = "4054a9fc5b736242809c0e8831f4a5b833afb825857013c84a2ecba5a50572a6"
 metafile = true
 
 [[files]]
@@ -1777,11 +1728,6 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "b0ada129912a9fe45b64d93e94521dcbcc0c4b6520b65d0f9cc478206beb52aa"
-metafile = true
-
-[[files]]
-file = "mods/soundsbegone.pw.toml"
-hash = "3abc6f679499e6eedd85aa7ad81410fb51d0d95540f2c7fd8b9c2b6d3252dfa2"
 metafile = true
 
 [[files]]
