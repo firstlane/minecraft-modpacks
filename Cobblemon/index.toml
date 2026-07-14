@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "Cobbleverse.txt"
-hash = "1c1af14e118d70dcfaee0b199c288c673840ca448002a1015c58f13d75a5c409"
-
-[[files]]
 file = "config/DistantHorizons.toml"
 hash = "d24c52a56d1ecf9c2abaf223593b632e18f1b2b6eb9e50da93bee31dc20f3eca"
 
@@ -1852,11 +1848,3 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "7f6ff124c450021e7514c0915834e81ea26e2d85105fff6cc56416b97938b372"
 metafile = true
-
-[[files]]
-file = "names.sh"
-hash = "f5e4f224cff81ae40de8574577b40b8baddbce69cd216fca072458f79bcf8d93"
-
-[[files]]
-file = "output.txt"
-hash = "2c97c63597daeae85a7898126ec35e3915a800c926da7dac861b1b8684fef765"
