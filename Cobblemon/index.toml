@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "Cobbleverse.txt"
+hash = "1c1af14e118d70dcfaee0b199c288c673840ca448002a1015c58f13d75a5c409"
+
+[[files]]
 file = "config/DistantHorizons.toml"
 hash = "d24c52a56d1ecf9c2abaf223593b632e18f1b2b6eb9e50da93bee31dc20f3eca"
 
@@ -47,10 +51,6 @@ hash = "58cc17bfedb9baca10c8dafa01cf309a73e17dc0e9bfdceb47e3adbbd99c83d0"
 [[files]]
 file = "config/betterf3.json"
 hash = "944c687624b697dc97975e190dab3ca2f3bcce9b330ead917141a0d8994474e0"
-
-[[files]]
-file = "config/betterthirdperson.json5"
-hash = "9c8fd475c4f72386a90b43a1d4b5f1e6ec5fb09574bd6e0c7f33b4d2a3c46300"
 
 [[files]]
 file = "config/biome_replacer.properties"
@@ -207,18 +207,6 @@ hash = "beb06c33b28f9ebeadd173b446f95ff5128020cd3e1c5a0c83a41c13fd05890e"
 [[files]]
 file = "config/cobblemonraiddens/tier_two.json5"
 hash = "41abef2f4b9e39d1b307801fc26be821891e258a14d2596fb784363eb6c4b0eb"
-
-[[files]]
-file = "config/cobblemonsizevariation/config.json"
-hash = "b38904f3c04b36b98fb69768403c77014bbc5128ff0beb2a0feb9a910b24e045"
-
-[[files]]
-file = "config/cobblemonsizevariation/sizes/basic.json"
-hash = "0d2e72dff8d55ebe156d9beba4b9b8989fa0d09b0dd90eba13747bcb757e7257"
-
-[[files]]
-file = "config/cobblemonsizevariation/sizes/gen9.json"
-hash = "ac23f299e2dbf56a9b3c3791052c93d4d1c2a8bc0683a5025b8738275df3f060"
 
 [[files]]
 file = "config/cobblenav/client-config.json"
@@ -693,10 +681,6 @@ file = "config/midnightlib.json"
 hash = "b14c45c6447f9ee5474d70784a2ef96731abbeca1e92485b7599e76e9dce1444"
 
 [[files]]
-file = "config/mobsbegone-blacklist.json"
-hash = "5b8df17a498eb57d7f717d1587be08661de44139f8e3e2ae2a2f016115d5c973"
-
-[[files]]
 file = "config/modernfix-mixins.properties"
 hash = "c03abaae9129778eea5bb05201ffb5ecd8aaeae8d1eb16255d97caba0b96ca87"
 
@@ -723,10 +707,6 @@ hash = "3ae1ca2df618b3449ef0e9cadddf87af33ddefac4ac2542b0983d9b5ba25fd07"
 [[files]]
 file = "config/nethermap.toml"
 hash = "b07e929a45bed93594b8134b856c3b791f8ba678a8c698fb52a54df17ea488b9"
-
-[[files]]
-file = "config/notebook.json"
-hash = "cb9a7fdcf20f5b7f9f86e6be0d2e7c324eab462dadcbbe8e5f4271a47708ee3d"
 
 [[files]]
 file = "config/notenoughanimations.json"
@@ -1130,11 +1110,6 @@ hash = "1907f9813c42d2948fa2ced9d22b1c71c527398b7204bac31001a943861dfc4f"
 metafile = true
 
 [[files]]
-file = "mods/better-third-person.pw.toml"
-hash = "a164ecd831c0279786cc47f95b82e271110e6c3cf6d739ad7136ec164cf934ed"
-metafile = true
-
-[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "55ace2d503ab17528908838eb2a28372bb0007897587936f7afc440dac7fce0c"
 metafile = true
@@ -1205,6 +1180,15 @@ hash = "1ea46fd95b4a0a0db19acbcb54f8280c6978ab59575cbf9021f41ae08085a52c"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-battle-positions-1.1.3.jar"
+hash = "d76bbd753763dde4a552d1a86b8bc6ceee9abcb00fa1bd29b6c2e389079437ed"
+
+[[files]]
+file = "mods/cobblemon-battle-positions.pw.toml"
+hash = "f9b5686ec5f144e773e73775f6424e3740e0d18dd91cb99285e6de957f007cf0"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-battle-tower.pw.toml"
 hash = "b91d4cd3663ff231bb085410422fc089205fab1c7921a0b3a7b49e0453224ce8"
 metafile = true
@@ -1212,11 +1196,6 @@ metafile = true
 [[files]]
 file = "mods/cobblemon-capture-xp.pw.toml"
 hash = "c08982c312257a16ca3737d64eec43bc99edb821ffbfa1e4bda6c9c3db82a75a"
-metafile = true
-
-[[files]]
-file = "mods/cobblemon-cobblestats.pw.toml"
-hash = "e582ce99b0ea3faeec2d3f4ef39ccb68bb12a534ce30a08cbd6c284416865b05"
 metafile = true
 
 [[files]]
@@ -1257,11 +1236,6 @@ metafile = true
 [[files]]
 file = "mods/cobblemon-safepastures.pw.toml"
 hash = "d0ac1efc67288b47fff2bc4c9dad48d8b889d6b72571178124911d8b86b06f9e"
-metafile = true
-
-[[files]]
-file = "mods/cobblemon-size-variations.pw.toml"
-hash = "caa5f226f3ed235195f2298d81bd7426c2c2f6e34dbb33e9fd562f962d79493f"
 metafile = true
 
 [[files]]
@@ -1550,11 +1524,6 @@ hash = "9ffde5465d276a524981bedb4dc9fac06855c6c2202e6b816880f5d52c215afb"
 metafile = true
 
 [[files]]
-file = "mods/mobsbegone.pw.toml"
-hash = "60dbca1c537f3623b5616e79d89a573a7d3554af58881d1f894de4e806bc29fd"
-metafile = true
-
-[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "1412b3e56efa30a93b4efaea3e22e886826bfcb42ba212362b066318c4ab5578"
 metafile = true
@@ -1602,11 +1571,6 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "ddb01f95b0f42b9b30a44347375e04ea344e472a27213cf835fc56cf8279e96f"
-metafile = true
-
-[[files]]
-file = "mods/notebook.pw.toml"
-hash = "4054a9fc5b736242809c0e8831f4a5b833afb825857013c84a2ecba5a50572a6"
 metafile = true
 
 [[files]]
@@ -1780,11 +1744,6 @@ hash = "b0ada129912a9fe45b64d93e94521dcbcc0c4b6520b65d0f9cc478206beb52aa"
 metafile = true
 
 [[files]]
-file = "mods/soundsbegone.pw.toml"
-hash = "3abc6f679499e6eedd85aa7ad81410fb51d0d95540f2c7fd8b9c2b6d3252dfa2"
-metafile = true
-
-[[files]]
 file = "mods/stackdeobf.pw.toml"
 hash = "95283cf28445e37b6a3f6fd9b9e42f73b01c3fcf5b9a8a0088a5424524d339dc"
 metafile = true
@@ -1893,3 +1852,11 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "7f6ff124c450021e7514c0915834e81ea26e2d85105fff6cc56416b97938b372"
 metafile = true
+
+[[files]]
+file = "names.sh"
+hash = "f5e4f224cff81ae40de8574577b40b8baddbce69cd216fca072458f79bcf8d93"
+
+[[files]]
+file = "output.txt"
+hash = "2c97c63597daeae85a7898126ec35e3915a800c926da7dac861b1b8684fef765"
