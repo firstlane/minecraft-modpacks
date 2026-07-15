@@ -53,6 +53,34 @@ file = "config/biome_replacer.properties"
 hash = "382c1f21cd970d8676cd442578e79368587e2eecba6087934d73600cf812a217"
 
 [[files]]
+file = "config/bluemap/core.conf"
+hash = "99bb0de1a70db77212c1b7f24f052caaaf034ec78b583645ff0052b60dc544f2"
+
+[[files]]
+file = "config/bluemap/maps/end.conf"
+hash = "4205f8b7f70c6dc75c2989ff54f36b84451b965fc2e963860c798eaedd36eae3"
+
+[[files]]
+file = "config/bluemap/maps/nether.conf"
+hash = "02436a0f6d895d56ec3fb42ca7206f25efd15b0bda8bd9882033c7d8cd62d49b"
+
+[[files]]
+file = "config/bluemap/maps/overworld.conf"
+hash = "aee3aa43b7837036c6985de64adfa693da25725e00b17a802a1a8dc8cfb55de0"
+
+[[files]]
+file = "config/bluemap/plugin.conf"
+hash = "f2b7b41fba69a1a3d1c9459e28c2847675aefe0df8d2a467a34d97c21250f4af"
+
+[[files]]
+file = "config/bluemap/webapp.conf"
+hash = "01f06e0eff76f950e4152dedd36687b599777cb24a1ce4699137b1025c6288dc"
+
+[[files]]
+file = "config/bluemap/webserver.conf"
+hash = "420b13227864623ff9e5f200ebba4c1a10f05a4ca40539dbefdfc9e23cdf78f2"
+
+[[files]]
 file = "config/brb.toml"
 hash = "15a793527b81599cef5f026d35622c8c734ef70547d7c749322c38d9697613c1"
 
@@ -1160,6 +1188,11 @@ hash = "34caacd53972ae75978df09718d8f1d6c1943592199e884b89ddf264d4cda6d8"
 metafile = true
 
 [[files]]
+file = "mods/bluemap.pw.toml"
+hash = "0fab2a26e6692d71537da9565dd87137504ddb34653136fd9f7a7df084d47575"
+metafile = true
+
+[[files]]
 file = "mods/brb.pw.toml"
 hash = "2a85c34f63c203bdb6d4b917b34aa1760dae4505d2959d76a099c4d19c645d75"
 metafile = true
@@ -1871,6 +1904,11 @@ metafile = true
 [[files]]
 file = "mods/wild-battle-api.pw.toml"
 hash = "eef046c0c3ffb539be7f76a916471dc281a0f1df56ca20bbdfba1e1d4c1c6ef2"
+metafile = true
+
+[[files]]
+file = "mods/xaeroplus.pw.toml"
+hash = "c214e1da36c394e4a6a528e8d66ebb4b558c8df0cdcef1cc6d3383e6f827b6f0"
 metafile = true
 
 [[files]]
