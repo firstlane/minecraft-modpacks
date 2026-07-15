@@ -54,7 +54,7 @@ hash = "382c1f21cd970d8676cd442578e79368587e2eecba6087934d73600cf812a217"
 
 [[files]]
 file = "config/bluemap/core.conf"
-hash = "99bb0de1a70db77212c1b7f24f052caaaf034ec78b583645ff0052b60dc544f2"
+hash = "e9d894773b441d937e80b3ceed8e93e2c7870b99a2f26f7a45546447fd396129"
 
 [[files]]
 file = "config/bluemap/maps/end.conf"
