@@ -1,0 +1,14 @@
+filename = 'cobblemon_controller_support-fabric-1.1.5.jar'
+name = 'Cobblemon Controller Support'
+side = 'client'
+
+[download]
+hash = 'cea9e478bf008d7837d163eb11f50e62dbed90d74f90e1580ef67f64fb0917aebe9f164d68bfd963be53f06a11972a87c10062ba762e04977208b201aba6a381'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ED1opfxO/versions/pyXpTr9Y/cobblemon_controller_support-fabric-1.1.5.jar'
+
+[update.modrinth]
+mod-id = 'ED1opfxO'
+version = 'pyXpTr9Y'
+

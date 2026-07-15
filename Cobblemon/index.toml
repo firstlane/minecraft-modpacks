@@ -109,6 +109,10 @@ file = "config/cobblemon-battle-extras.json"
 hash = "b79a6e69b699cad9bd847b5238fbed7a95a79aa44e73d746f066d8f9912575b6"
 
 [[files]]
+file = "config/cobblemon-controller.json"
+hash = "40ddecef508201f725bdd8ee20f3a7b802e7a1ab88baad29fbeb92e87ba1248f"
+
+[[files]]
 file = "config/cobblemon-more-pc-info.json"
 hash = "c938005f421340782761a9e4add7b564184d2109da240bde1594af8042afcf4c"
 
@@ -227,6 +231,10 @@ hash = "66658326864d8a903ee148fddceb4e0f2ed58329be5a63676b36334b532c36cb"
 [[files]]
 file = "config/continuity.json"
 hash = "00267a602028cbb037dcb0b5f803db31bed284235ca9c1ea189ad4179311a2f4"
+
+[[files]]
+file = "config/controlify.json"
+hash = "edd2b522910594222f0952dce0ca60c8afa45814704374bbee613279fc4c04b7"
 
 [[files]]
 file = "config/customsplashscreen.json"
@@ -1231,6 +1239,11 @@ hash = "c08982c312257a16ca3737d64eec43bc99edb821ffbfa1e4bda6c9c3db82a75a"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-controller-support.pw.toml"
+hash = "203db636fd4a46ba014e693b92c5c58682e9451d16e3cd6f16fe748d74f9abd9"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-fight-or-flight-reborn.pw.toml"
 hash = "a237ed42dd837ae6e806958de622228852fe485f2d681f3b9dd1a3857d894094"
 metafile = true
@@ -1318,6 +1331,11 @@ metafile = true
 [[files]]
 file = "mods/continuity.pw.toml"
 hash = "d14e8793a933931f1674ad89728603828b280a79ac2b6702d6add010e477ebd6"
+metafile = true
+
+[[files]]
+file = "mods/controlify.pw.toml"
+hash = "87c44655b23072b851cbc24dc54c9d1a775928007790bfbbaf20f00726858576"
 metafile = true
 
 [[files]]
