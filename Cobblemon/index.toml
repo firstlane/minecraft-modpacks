@@ -53,6 +53,22 @@ file = "config/biome_replacer.properties"
 hash = "382c1f21cd970d8676cd442578e79368587e2eecba6087934d73600cf812a217"
 
 [[files]]
+file = "config/bluemap/core.conf"
+hash = "7d28e977e7086160a2fa4c506a7e6f799be91be7366d1134119b720e2f2d4b6f"
+
+[[files]]
+file = "config/bluemap/plugin.conf"
+hash = "84121af20e755f22e18e04339e2a658e9c240b4c67c3abb24b50ba588925b039"
+
+[[files]]
+file = "config/bluemap/webapp.conf"
+hash = "01f06e0eff76f950e4152dedd36687b599777cb24a1ce4699137b1025c6288dc"
+
+[[files]]
+file = "config/bluemap/webserver.conf"
+hash = "420b13227864623ff9e5f200ebba4c1a10f05a4ca40539dbefdfc9e23cdf78f2"
+
+[[files]]
 file = "config/brb.toml"
 hash = "15a793527b81599cef5f026d35622c8c734ef70547d7c749322c38d9697613c1"
 
@@ -1157,6 +1173,11 @@ metafile = true
 [[files]]
 file = "mods/biome-replacer.pw.toml"
 hash = "34caacd53972ae75978df09718d8f1d6c1943592199e884b89ddf264d4cda6d8"
+metafile = true
+
+[[files]]
+file = "mods/bluemap.pw.toml"
+hash = "0fab2a26e6692d71537da9565dd87137504ddb34653136fd9f7a7df084d47575"
 metafile = true
 
 [[files]]
