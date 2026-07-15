@@ -1337,8 +1337,12 @@ hash = "128b74ca204b4382a7bb29ce9d8f05bafa89fe26d55c38fcfa3d475b2df9832e"
 metafile = true
 
 [[files]]
+file = "mods/cobblemonextrastructures-1.21.1-1.3.0-fabric.jar"
+hash = "6b6a11143c31967074bd87bd30642e7ff2f97265a49c7b1b8ce0d3463e94d418"
+
+[[files]]
 file = "mods/cobblemonextrastructures.pw.toml"
-hash = "bbe02ced4dbdfea42f3869512c9312b5a9898dbf0de5d711fb17cc67200c4cbd"
+hash = "566d9b0c18ea939bef0c6d355b9639ccedefb9936d819a114db6b8fa7bd21c75"
 metafile = true
 
 [[files]]
