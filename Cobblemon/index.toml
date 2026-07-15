@@ -54,11 +54,23 @@ hash = "382c1f21cd970d8676cd442578e79368587e2eecba6087934d73600cf812a217"
 
 [[files]]
 file = "config/bluemap/core.conf"
-hash = "7d28e977e7086160a2fa4c506a7e6f799be91be7366d1134119b720e2f2d4b6f"
+hash = "99bb0de1a70db77212c1b7f24f052caaaf034ec78b583645ff0052b60dc544f2"
+
+[[files]]
+file = "config/bluemap/maps/end.conf"
+hash = "4205f8b7f70c6dc75c2989ff54f36b84451b965fc2e963860c798eaedd36eae3"
+
+[[files]]
+file = "config/bluemap/maps/nether.conf"
+hash = "02436a0f6d895d56ec3fb42ca7206f25efd15b0bda8bd9882033c7d8cd62d49b"
+
+[[files]]
+file = "config/bluemap/maps/overworld.conf"
+hash = "aee3aa43b7837036c6985de64adfa693da25725e00b17a802a1a8dc8cfb55de0"
 
 [[files]]
 file = "config/bluemap/plugin.conf"
-hash = "84121af20e755f22e18e04339e2a658e9c240b4c67c3abb24b50ba588925b039"
+hash = "f2b7b41fba69a1a3d1c9459e28c2847675aefe0df8d2a467a34d97c21250f4af"
 
 [[files]]
 file = "config/bluemap/webapp.conf"
