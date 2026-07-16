@@ -1174,7 +1174,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-nether-map.pw.toml"
-hash = "1907f9813c42d2948fa2ced9d22b1c71c527398b7204bac31001a943861dfc4f"
+hash = "823d504f7256c8223cd30f2617753a8e5b6dc67dd223897fd16273421ef57960"
 metafile = true
 
 [[files]]
