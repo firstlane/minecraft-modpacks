@@ -1,13 +1,13 @@
-filename = 'playerxp-fabric-1.0.8+1.21.1.jar'
-name = 'Cobblemon: PlayerXP'
-side = 'server'
+name = "Cobblemon: PlayerXP"
+filename = "playerxp-fabric-1.0.8+1.21.1.jar"
+side = "server"
 
 [download]
-hash = '16d7517ea8e62d2ed511d7def0b57ecf0fee5564e5db8753a9d6d46799825ea4309c8626d7aaaf92d9beeb789cb61eacdeebbaa94d75688f8496214456463b98'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/zlrbPCvu/versions/NpiKXenh/playerxp-fabric-1.0.8%2B1.21.1.jar'
+url = "https://cdn.modrinth.com/data/zlrbPCvu/versions/NpiKXenh/playerxp-fabric-1.0.8%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "16d7517ea8e62d2ed511d7def0b57ecf0fee5564e5db8753a9d6d46799825ea4309c8626d7aaaf92d9beeb789cb61eacdeebbaa94d75688f8496214456463b98"
 
+[update]
 [update.modrinth]
-mod-id = 'zlrbPCvu'
-version = 'NpiKXenh'
+mod-id = "zlrbPCvu"
+version = "NpiKXenh"
