@@ -1318,7 +1318,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-spawn-notification.pw.toml"
-hash = "93dfbe27912b0390c4ee3bd4b22810ce5398571a77effa69ebaeda4e078e19cb"
+hash = "33076e9cc6db7e0562434e37b9d9ff9da3ffb1af9eae9457649ad36211d6ae43"
 metafile = true
 
 [[files]]
