@@ -1229,7 +1229,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobbledgacha.pw.toml"
-hash = "cc11cdd717652856f5e1c7c52267977b26a4c4223f0653995b176d3821606d44"
+hash = "4b0a9e2a076731230f49c32ef9e1d2da02fc4bf4c168a460145fbb8dfdb066af"
 metafile = true
 
 [[files]]
@@ -1657,7 +1657,7 @@ metafile = true
 
 [[files]]
 file = "mods/netherportalfix.pw.toml"
-hash = "ef2828adb64489bc696ca4ccba7d9f8d7926ac5d0a617c79dfc279cc9a294c5c"
+hash = "537bdd1937193d94cf47f2232e2b38357415e5af8c950d97661b3ae881adbb4e"
 metafile = true
 
 [[files]]
