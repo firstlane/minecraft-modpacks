@@ -1762,7 +1762,7 @@ metafile = true
 
 [[files]]
 file = "mods/repurposed-structures-fabric.pw.toml"
-hash = "61a4263702a40e77588734015c4c537e7c411dcb46fcc750974e88eb2c0b6203"
+hash = "aba10031955f2328df565483a45d3a975bb21cd256819a5ff8bbd3cb29804059"
 metafile = true
 
 [[files]]
