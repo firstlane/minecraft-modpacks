@@ -1342,7 +1342,7 @@ hash = "6b6a11143c31967074bd87bd30642e7ff2f97265a49c7b1b8ce0d3463e94d418"
 
 [[files]]
 file = "mods/cobblemonextrastructures.pw.toml"
-hash = "566d9b0c18ea939bef0c6d355b9639ccedefb9936d819a114db6b8fa7bd21c75"
+hash = "c18b9b0010925f2a9f2be3bf5b9c184fa57237e236cb9b548f9bc4a404fa2a06"
 metafile = true
 
 [[files]]
