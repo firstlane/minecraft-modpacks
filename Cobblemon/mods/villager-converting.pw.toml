@@ -1,13 +1,13 @@
-filename = 'villagerconverting-1.5.0+1.21.jar'
-name = 'Villager Converting'
-side = 'server'
+name = "Villager Converting"
+filename = "villagerconverting-1.5.0+1.21.jar"
+side = "server"
 
 [download]
-hash = '7550e9ec9159f145d776edb5ab99e49a4da169b55fa103c58aa717352e54b5deff91acf094eec5b746c90ff2c81b2345fc4d4d69d3fbf1750c5bac946572f276'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/gtsvJo80/versions/Rv4qj8y8/villagerconverting-1.5.0%2B1.21.jar'
+url = "https://cdn.modrinth.com/data/gtsvJo80/versions/Rv4qj8y8/villagerconverting-1.5.0%2B1.21.jar"
+hash-format = "sha512"
+hash = "7550e9ec9159f145d776edb5ab99e49a4da169b55fa103c58aa717352e54b5deff91acf094eec5b746c90ff2c81b2345fc4d4d69d3fbf1750c5bac946572f276"
 
+[update]
 [update.modrinth]
-mod-id = 'gtsvJo80'
-version = 'Rv4qj8y8'
+mod-id = "gtsvJo80"
+version = "Rv4qj8y8"
