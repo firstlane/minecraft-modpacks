@@ -1591,6 +1591,11 @@ hash = "4fd5523199bee5ee6a73da8232e48175ae9b4ed151e38181330c8787209e55e8"
 metafile = true
 
 [[files]]
+file = "mods/maplink.pw.toml"
+hash = "9f613824514749234fa16b632fcd0087bb5997a7cb3f2795ffaa763a014103b5"
+metafile = true
+
+[[files]]
 file = "mods/mech-trowel.pw.toml"
 hash = "a03749bf61289975dd1e616303dc26def758d208ab4c1edb3ae1e17a404cc3b3"
 metafile = true
@@ -1908,11 +1913,6 @@ metafile = true
 [[files]]
 file = "mods/wild-battle-api.pw.toml"
 hash = "eef046c0c3ffb539be7f76a916471dc281a0f1df56ca20bbdfba1e1d4c1c6ef2"
-metafile = true
-
-[[files]]
-file = "mods/xaeroplus.pw.toml"
-hash = "c214e1da36c394e4a6a528e8d66ebb4b558c8df0cdcef1cc6d3383e6f827b6f0"
 metafile = true
 
 [[files]]
