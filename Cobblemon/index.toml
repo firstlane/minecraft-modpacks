@@ -1657,7 +1657,7 @@ metafile = true
 
 [[files]]
 file = "mods/netherportalfix.pw.toml"
-hash = "ef2828adb64489bc696ca4ccba7d9f8d7926ac5d0a617c79dfc279cc9a294c5c"
+hash = "537bdd1937193d94cf47f2232e2b38357415e5af8c950d97661b3ae881adbb4e"
 metafile = true
 
 [[files]]
