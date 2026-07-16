@@ -1552,7 +1552,7 @@ metafile = true
 
 [[files]]
 file = "mods/lenient-death.pw.toml"
-hash = "c8db418aafef8cab46b807c54d5ff1b4621a01b62467094259da470e900ed6c2"
+hash = "f075e4a3e7b8bf2a9847eedf8c49ca8c6100f7c6c221ae21314dc6f32338caf9"
 metafile = true
 
 [[files]]
