@@ -1129,7 +1129,7 @@ metafile = true
 
 [[files]]
 file = "mods/advancementdisable.pw.toml"
-hash = "c0ca3f03fa3914b08f58062e853296067bf076b5af3211fb7bb34d15c2bf9891"
+hash = "81076f261d25666a079c2db487514a4e3e24aa2900095d1cddc9a7a5fab6a8f4"
 metafile = true
 
 [[files]]
@@ -1174,7 +1174,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-nether-map.pw.toml"
-hash = "1907f9813c42d2948fa2ced9d22b1c71c527398b7204bac31001a943861dfc4f"
+hash = "823d504f7256c8223cd30f2617753a8e5b6dc67dd223897fd16273421ef57960"
 metafile = true
 
 [[files]]
@@ -1184,7 +1184,7 @@ metafile = true
 
 [[files]]
 file = "mods/biome-replacer.pw.toml"
-hash = "34caacd53972ae75978df09718d8f1d6c1943592199e884b89ddf264d4cda6d8"
+hash = "67e88d79c2d0385d16198d8c40b41a5813533a2bbfb10f3d3f5477017a9c1c78"
 metafile = true
 
 [[files]]
@@ -1268,7 +1268,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-capture-xp.pw.toml"
-hash = "c08982c312257a16ca3737d64eec43bc99edb821ffbfa1e4bda6c9c3db82a75a"
+hash = "0b1740cc342248a7bf917a147d6b8e852a9253dfbcfe180f7cf50f97bf6d646e"
 metafile = true
 
 [[files]]
@@ -1303,7 +1303,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-playerxp.pw.toml"
-hash = "719bdb2cce1ef9b6e7ce147663a6c95bc45efa3da65672a66ec40788e9db6311"
+hash = "c4c07874828efaaca77be1d84a053237a06c74d54c8771395fa450ba23e3c0a3"
 metafile = true
 
 [[files]]
@@ -1313,17 +1313,17 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-safepastures.pw.toml"
-hash = "d0ac1efc67288b47fff2bc4c9dad48d8b889d6b72571178124911d8b86b06f9e"
+hash = "c9276959e9375f398c974b348a670447092647e206e100b681c14bc36faef738"
 metafile = true
 
 [[files]]
 file = "mods/cobblemon-spawn-notification.pw.toml"
-hash = "93dfbe27912b0390c4ee3bd4b22810ce5398571a77effa69ebaeda4e078e19cb"
+hash = "33076e9cc6db7e0562434e37b9d9ff9da3ffb1af9eae9457649ad36211d6ae43"
 metafile = true
 
 [[files]]
 file = "mods/cobblemon-tim-core.pw.toml"
-hash = "7a7ce2281f840b60af24e6454da48243e40652832cd2e14d6932daa5bc43e159"
+hash = "9e73dc663b6e07c0746087c337890b9c0354d05e2d15d51be154a9dac331566c"
 metafile = true
 
 [[files]]
@@ -1467,7 +1467,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgiving-void.pw.toml"
-hash = "8cd2b89e6cc44206a902bc7226b6a83e4a7dee24636d0ace0b4d21fda9e301f8"
+hash = "0c9e5cc4d9ecb5142547fdd3cb2d47452805111a794fcc64d905abd7879b2fda"
 metafile = true
 
 [[files]]
@@ -1552,7 +1552,7 @@ metafile = true
 
 [[files]]
 file = "mods/lenient-death.pw.toml"
-hash = "c8db418aafef8cab46b807c54d5ff1b4621a01b62467094259da470e900ed6c2"
+hash = "f075e4a3e7b8bf2a9847eedf8c49ca8c6100f7c6c221ae21314dc6f32338caf9"
 metafile = true
 
 [[files]]
@@ -1762,7 +1762,7 @@ metafile = true
 
 [[files]]
 file = "mods/repurposed-structures-fabric.pw.toml"
-hash = "61a4263702a40e77588734015c4c537e7c411dcb46fcc750974e88eb2c0b6203"
+hash = "aba10031955f2328df565483a45d3a975bb21cd256819a5ff8bbd3cb29804059"
 metafile = true
 
 [[files]]
@@ -1897,12 +1897,12 @@ metafile = true
 
 [[files]]
 file = "mods/villager-converting.pw.toml"
-hash = "8c60ac13515cd313d30cb638296fb3f6eea49d73bbc0544f73b5efadf9940439"
+hash = "6c1b1b14d3d227ddcd31606be04511705ba43e5107540d5640e3135c36967125"
 metafile = true
 
 [[files]]
 file = "mods/villagerconfig.pw.toml"
-hash = "2a6dd116b4a60aa41b73be5a8f50f8ca393d957994fc6636831beaf2df239419"
+hash = "2cc78321e8c66278ce00e1c5e34b80b62fba3a1e53d6752b28814dde6a371c39"
 metafile = true
 
 [[files]]
