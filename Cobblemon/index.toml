@@ -1496,6 +1496,11 @@ hash = "46c93e95220257d0c09e2b6b007f5015a53691e88307165b2d04faf6e6e582c9"
 metafile = true
 
 [[files]]
+file = "mods/haunted-encounters.pw.toml"
+hash = "f71d989b61aa6a433b9eb5ac8922b1633c30f013d5e928eb1204b62a75327735"
+metafile = true
+
+[[files]]
 file = "mods/highlight.pw.toml"
 hash = "f762aa3a630e0eb52b632012edba1eb801efd8d2e35d8a108d3199f3ca3da868"
 metafile = true

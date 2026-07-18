@@ -1,0 +1,13 @@
+name = "Haunted Encounters v.1 [Fabric/NeoForge 1.21.1]"
+filename = "haunted_encounters-fabric-1.0.2+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SHOk9B0j/versions/CYzp5yub/haunted_encounters-fabric-1.0.2%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "31b9f897cc175a968b26653aee12d2686ed315e9fb2cd67273fe47fae25ca39885958cd7e826e71365805c337d1dfce007414fcacd4a3d6833e25d2884a057d0"
+
+[update]
+[update.modrinth]
+mod-id = "SHOk9B0j"
+version = "CYzp5yub"
