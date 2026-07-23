@@ -1,13 +1,13 @@
-filename = 'LegendaryMonuments-Cobbleverse.jar'
-name = 'Cobblemon: Legendary Monuments'
-side = 'both'
+name = "Cobblemon: Legendary Monuments"
+filename = "legendarymonuments-fabric-1.21.1-8.0.3.jar"
+side = "both"
 
 [download]
-hash = '7c62183d6ef32ca43bcc745fb6082c50dc0814cd633fd81fc0a48cdc84b3801930ab5c792cfc6332311bf4da35461d2f871a956ff45ba5dc3eb25563924a87ad'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/m6RyHSbV/versions/RtYJBrxd/LegendaryMonuments-Cobbleverse.jar'
+url = "https://cdn.modrinth.com/data/m6RyHSbV/versions/6nvO1cvI/legendarymonuments-fabric-1.21.1-8.0.3.jar"
+hash-format = "sha512"
+hash = "20e3081e129af0dde62eebf454b037dc340cbd9d59162f87c36ffedf8df07ac2495e0aea551ce0ca97036ae299bc941b6e12089189830af226b195c206ae76d1"
 
+[update]
 [update.modrinth]
-mod-id = 'm6RyHSbV'
-version = 'RtYJBrxd'
+mod-id = "m6RyHSbV"
+version = "6nvO1cvI"

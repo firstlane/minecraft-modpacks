@@ -1218,6 +1218,11 @@ hash = "ee04784138150a4135c01d0e63517777da05a10e27e650b95e1a33ce7142f246"
 metafile = true
 
 [[files]]
+file = "mods/chipped.pw.toml"
+hash = "a4d21da45c40e8f1e3b76c9855ea3f1c15736cf2b12475e9de3efd05f8f48a8d"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "a96aeb583bc38a3a3a49b75d43a9d578391579dd3712b5051ce7eda82f6cbd90"
 metafile = true
@@ -1552,7 +1557,7 @@ metafile = true
 
 [[files]]
 file = "mods/legendary-monuments.pw.toml"
-hash = "dfc6dc1fdd89acf99d7f7e6c7172788ca60c27ca462b576e85c3faa389228d82"
+hash = "fd7bc3ad7f516c6f2cec2f4dcb64ea0e2137bf19d94f0a1baa91ecf2651b8686"
 metafile = true
 
 [[files]]
