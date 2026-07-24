@@ -1207,6 +1207,11 @@ hash = "3bd7c2c3848842cd34c93292aa869f2e6d5352650bb06bb1a1fa1f1f31aa97fa"
 metafile = true
 
 [[files]]
+file = "mods/carry-on.pw.toml"
+hash = "ea2b302c7d0e0ba1ecec31e44a134279d593a0665034bffc937ace6058abe4ce"
+metafile = true
+
+[[files]]
 file = "mods/carved-wood.pw.toml"
 hash = "03c3964f4bb02891b90947a08e89d45f66d42df6af7ebe0304b0a8902f008568"
 metafile = true
